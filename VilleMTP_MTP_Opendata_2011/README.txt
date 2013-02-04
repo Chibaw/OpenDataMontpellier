@@ -1,46 +1,48 @@
-﻿--------------------------------------------------
+﻿   
 
-
-Montpellier Territoire Numérique
+ 
 --------------------------------------------------
-
+Données publiques ouvertes - Montpellier Territoire Numérique
+--------------------------------------------------
 Fiche métadonnées
 --------------------------------------------------
 
-*Nom : Données de l'Opendata, Montpellier Territoire numérique
+* ID : 22
 
-*Date de publication : 20/04/2011
+* TITRE : Emplacement des caméras de vidéoprotection urbaine
 
-*Identifiant : VilleMTP_MTP_Opendata_2011
+* IDENTIFIANT : VilleMTP_MTP_CameraSurv_2011
 
-*Description : Montpellier Territoire Numérique a mis en ligne sur son site Opendata un bon nombre de jeux de données et de ressources. Vous retrouverez ici le recensement de toutes ces données.
+* DESCRIPTION : Date d’installation et emplacement des 116 caméras de vidéoprotection urbaine de la Ville de Montpellier. Le fichier renseigne pour chacune des 116 caméras, la date d’installation, le lieu, la situation précise dans certains cas, le quartier, le sous-quartier et enfin les coordonnées géographiques pour 114 des 116 caméras.
 
-*Période de validité : Hebdomadaire
+* COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
 
-*Propriétaire : Ville de Montpellier
+* LANGUE : français
 
-*Diffuseur : Ville de Montpellier
+* DATE PUBLICATION : 2011-07-13
 
-*Catégorie : Numérique
+* PÉRIODE VALIDITÉE : Annuelle
 
-*Thème INSPIRE : Services d'utilité publique, communication
+* MISE À JOUR : 2013-02-04
 
-*Couverture géographique : Ville de Montpellier
+* PRORIÉTAIRE : Ville de Montpellier
 
-*Licence : APIE
+* DIFFUSEUR : Ville de Montpellier
 
-*Langue : Français
+* CATÉGORIE : Localisation
 
-*Mots clés : open data ; données ; territoire ; montpellier
+* THÈME INSPIRE : Localisation
 
-*Tarification : Gratuite
+* LICENCE : LICENCE OUVERTE / OPEN LICENCE http://www.etalab.gouv.fr/pages/licence-ouverte-open-licence-5899923.html
 
-*Information complémentaire : http://opendata.montpelliernumerique.fr/Les-donnees
+* MOTS CLÉS : caméras ; surveillance ; tranquillité publique ; vidéo surveillance
+
+* TARIFICATION : Gratuite
+
+* INFORMATION COMPLÉMENTAIRE : http://www.montpellier.fr/267-la-police-municipale.htm
+
 
 
 --------------------------------------------------
-
 Site : http://opendata.montpelliernumerique.fr
-
-Contact : opendata.montpelliernumerique@gmail.com
 --------------------------------------------------
