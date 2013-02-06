@@ -1,11 +1,11 @@
-"Bénéficiaires des prestations légales, source CAF (2009)",,,,,,,,,,,,,,,,,,,,,,
-"Données par IRIS",,,,,,,,,,,,,,,,,,,,,,
-"Champ : IRIS de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,
-,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,
+"BÃ©nÃ©ficiaires des prestations lÃ©gales, source CAF (2009)",,,,,,,,,,,,,,,,,,,,,,
+"DonnÃ©es par IRIS",,,,,,,,,,,,,,,,,,,,,,
+"Champ : IRIS de l'agglomÃ©ration 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomÃ©ration fait partie de la rÃ©gion : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,
 "Source : Caisse Nationale d'Allocations Familiales",,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,
 "REG","uu","dc","nomc","iris","nom","note","A","PERCOU","AI","AM","ACSSENF","ACAVENF","AC3ENF","AAL","AAPL","AAAH","ARMI","AAPI","ARSA","ARSAS","APRES50","APRES100"
-"Code région","Code unité urbaine (agglomération)","Code département / commune","Nom de la commune","Code IRIS","Nom de la zone","Disponibilité (voir documentation)","Nombre d’allocataires","Nombre de personnes couvertes","Nombre d’allocataires isolés","Nombre de familles monoparentales","Nombre d’allocataires en couple sans enfant","Nombre d’allocataires en couple avec enfant","dont couples avec trois enfants ou plus","Nombre d’allocataires percevant une Allocation Logement","Dont Allocation Personnalisée de Logement (Métropole)","Nombre d’allocataires percevant l’Allocation Adulte Handicapé","Nombre d’allocataires percevant le Revenu Minimum d'Insertion (DOM)","Nombre d’allocataires percevant l’Allocation de Parent Isolé (DOM)","Nombre d’allocataires percevant le Revenu de Solidarité Active (Métropole)","dont le Revenu de Solidarité Active socle (Métropole)","Nombre d’allocataires dont le revenu est constitué à plus de 50 % de prestations sociales","Nombre d’allocataires dont le revenu est constitué à 100 % de prestations sociales"
+"Code rÃ©gion","Code unitÃ© urbaine (agglomÃ©ration)","Code dÃ©partement / commune","Nom de la commune","Code IRIS","Nom de la zone","DisponibilitÃ© (voir documentation)","Nombre dâ€™allocataires","Nombre de personnes couvertes","Nombre dâ€™allocataires isolÃ©s","Nombre de familles monoparentales","Nombre dâ€™allocataires en couple sans enfant","Nombre dâ€™allocataires en couple avec enfant","dont couples avec trois enfants ou plus","Nombre dâ€™allocataires percevant une Allocation Logement","Dont Allocation PersonnalisÃ©e de Logement (MÃ©tropole)","Nombre dâ€™allocataires percevant lâ€™Allocation Adulte HandicapÃ©","Nombre dâ€™allocataires percevant le Revenu Minimum d'Insertion (DOM)","Nombre dâ€™allocataires percevant lâ€™Allocation de Parent IsolÃ© (DOM)","Nombre dâ€™allocataires percevant le Revenu de SolidaritÃ© Active (MÃ©tropole)","dont le Revenu de SolidaritÃ© Active socle (MÃ©tropole)","Nombre dâ€™allocataires dont le revenu est constituÃ© Ã  plus de 50Â % de prestations sociales","Nombre dâ€™allocataires dont le revenu est constituÃ© Ã  100Â % de prestations sociales"
 "91","34701","34057","Castelnau-le-Lez","0101","QUARTIER SUD",0,190,398,112,13,8,57,12,111,,34,,,19,18,57,47
 "91","34701","34057","Castelnau-le-Lez","0102","GALINE-STADE JEAN FOURNIER-OUEST",0,626,1520,229,140,40,217,46,423,129,41,,,120,92,153,96
 "91","34701","34057","Castelnau-le-Lez","0103","CASTELNAU-CENTRE VILLE",0,352,960,120,63,21,148,46,140,,21,,,41,33,65,36
@@ -18,7 +18,7 @@
 "91","34701","34172","Montpellier","0103","SAINT-ELOI",0,975,1463,737,57,78,103,27,887,11,31,,,96,73,157,103
 "91","34701","34172","Montpellier","0105","LAPEYRONIE",0,1295,1710,1077,54,68,96,11,1154,30,65,,,88,69,152,105
 "91","34701","34172","Montpellier","0106","OCCITANIE",0,2044,2599,1708,84,134,118,11,1912,748,68,,,148,107,269,172
-"91","34701","34172","Montpellier","0108","EUROMÉDECINE",1,,,,,,,,,,,,,,,,
+"91","34701","34172","Montpellier","0108","EUROMÃ‰DECINE",1,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","0109","MALBOSC",1,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","0201","LUNARET",0,153,176,136,,11,5,,147,146,,,,7,,14,6
 "91","34701","34172","Montpellier","0202","AIGUELONGUE",0,543,1001,357,24,43,119,33,393,7,14,,,38,30,56,41
@@ -70,7 +70,7 @@
 "91","34701","34172","Montpellier","1803","LA LIRONDE",1,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","1804","RIVE DU LEZ",1,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","1901","EUREKA",2,,,,,,,,,,,,,,,,
-"91","34701","34172","Montpellier","1903","MILLÉNAIRE",1,,,,,,,,,,,,,,,,
+"91","34701","34172","Montpellier","1903","MILLÃ‰NAIRE",1,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","1904","GRAMMONT",1,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","2001","PONT DE SETE",0,1044,1569,764,102,76,102,23,877,9,53,,,196,160,255,167
 "91","34701","34172","Montpellier","2002","MEDITERRANNEE",0,978,1492,690,90,97,101,13,827,22,63,,,173,141,250,159
@@ -94,7 +94,7 @@
 "91","34701","34172","Montpellier","2601","GAMBETTA",0,2157,3266,1539,220,187,211,36,1381,50,162,,,831,754,956,734
 "91","34701","34172","Montpellier","2602","SAINT-DENIS",0,1309,2162,866,138,126,179,40,1080,8,73,,,274,211,345,227
 "91","34701","34172","Montpellier","2701","NOMBRE D'OR",0,708,1176,480,87,50,91,24,585,153,73,,,88,65,148,91
-"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÊQUE",1,,,,,,,,,,,,,,,,
+"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÃŠQUE",1,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","2704","PLACE DE L'EUROPE",1,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","2801","LA GUIRLANDE",0,1023,1956,536,271,72,144,33,790,520,186,,,354,320,537,401
 "91","34701","34172","Montpellier","2802","CHAPTAL",0,902,1725,480,134,108,180,25,680,39,78,,,229,179,279,172

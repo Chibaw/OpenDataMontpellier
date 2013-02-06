@@ -1,11 +1,11 @@
-"Bénéficiaires des prestations légales, source CAF (2009)",,,,,,,,,,,,,,,,,,,,
-"Données par ZUS",,,,,,,,,,,,,,,,,,,,
-"Champ : ZUS de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,
-,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,
+"BÃ©nÃ©ficiaires des prestations lÃ©gales, source CAF (2009)",,,,,,,,,,,,,,,,,,,,
+"DonnÃ©es par ZUS",,,,,,,,,,,,,,,,,,,,
+"Champ : ZUS de l'agglomÃ©ration 34701-Montpellier",,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomÃ©ration fait partie de la rÃ©gion : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,
 "Source : Caisse Nationale d'Allocations Familiales",,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 "reg","uu","zus","nom","note","A","PERCOU","AI","AM","ACSSENF","ACAVENF","AC3ENF","AAL","AAPL","AAAH","ARMI","AAPI","ARSA","ARSAS","APRES50","APRES100"
-"Code région","Code unité urbaine (agglomération)","Code ZUS","Nom de la zone","Disponibilité (voir documentation)","Nombre d’allocataires","Nombre de personnes couvertes","Nombre d’allocataires isolés","Nombre de familles monoparentales","Nombre d’allocataires en couple sans enfant","Nombre d’allocataires en couple avec enfant","dont couples avec trois enfants ou plus","Nombre d’allocataires percevant une Allocation Logement","Dont Allocation Personnalisée de Logement (Métropole)","Nombre d’allocataires percevant l’Allocation Adulte Handicapé","Nombre d’allocataires percevant le Revenu Minimum d'Insertion (DOM)","Nombre d’allocataires percevant l’Allocation de Parent Isolé (DOM)","Nombre d’allocataires percevant le Revenu de Solidarité Active (Métropole)","dont le Revenu de Solidarité Active socle (Métropole)","Nombre d’allocataires dont le revenu est constitué à plus de 50 % de prestations sociales","Nombre d’allocataires dont le revenu est constitué à 100 % de prestations sociales"
+"Code rÃ©gion","Code unitÃ© urbaine (agglomÃ©ration)","Code ZUS","Nom de la zone","DisponibilitÃ© (voir documentation)","Nombre dâ€™allocataires","Nombre de personnes couvertes","Nombre dâ€™allocataires isolÃ©s","Nombre de familles monoparentales","Nombre dâ€™allocataires en couple sans enfant","Nombre dâ€™allocataires en couple avec enfant","dont couples avec trois enfants ou plus","Nombre dâ€™allocataires percevant une Allocation Logement","Dont Allocation PersonnalisÃ©e de Logement (MÃ©tropole)","Nombre dâ€™allocataires percevant lâ€™Allocation Adulte HandicapÃ©","Nombre dâ€™allocataires percevant le Revenu Minimum d'Insertion (DOM)","Nombre dâ€™allocataires percevant lâ€™Allocation de Parent IsolÃ© (DOM)","Nombre dâ€™allocataires percevant le Revenu de SolidaritÃ© Active (MÃ©tropole)","dont le Revenu de SolidaritÃ© Active socle (MÃ©tropole)","Nombre dâ€™allocataires dont le revenu est constituÃ© Ã  plus de 50Â % de prestations sociales","Nombre dâ€™allocataires dont le revenu est constituÃ© Ã  100Â % de prestations sociales"
 "91","34701","9105030","GELY-FIGUEROLLES",0,876,1620,478,242,66,90,21,703,496,181,,,330,306,505,386
 "91","34701","9105040","LA PAILLADE",0,5132,13740,1888,970,538,1736,777,4001,3149,618,,,1716,1429,2330,1432
 "91","34701","9105050","LES CEVENNES",0,2107,4417,1179,204,181,543,201,1741,342,111,,,385,306,533,291

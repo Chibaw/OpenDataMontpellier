@@ -1,11 +1,11 @@
-"Demandeurs d'emploi inscrits à Pôle Emploi (2009)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Données par IRIS",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Champ : IRIS de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Source : Pôle Emploi, traitement Insee",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Demandeurs d'emploi inscrits Ã  PÃ´le Emploi (2009)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"DonnÃ©es par IRIS",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : IRIS de l'agglomÃ©ration 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomÃ©ration fait partie de la rÃ©gion : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Source : PÃ´le Emploi, traitement Insee",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "REG","uu","dc","nomc","iris","nom","note","A","BCatABC","BCatA","BCatB","BCatC","BCatD","BCatE","AH","AF","AHLt25","AFLt25","AH2549","AF2549","AHGe50","AFGe50","BE","BEH","BEF","BFor6","BFor5","BFor4","BFor3","BFor12","BDur1","BDur2","BDur3","BDur4","BIns1","BIns2","BIns3","BRecu","BQal1","BQal2","BQal3","BQal4","BQal5","Bind","Brmi"
-"Code région","Code unité urbaine (agglomération)","Code département / commune","Nom de la commune","Code IRIS","Nom de la zone","Disponibilité (voir documentation)","DEFM toutes catégories","Catégorie A, B ou C","Catégorie A","Catégorie B","Catégorie C","Catégorie D","Catégorie E","Hommes","Femmes","Hommes de moins de 25 ans","Femmes de moins de 25 ans","Hommes de 25 à moins de 50 ans","Femmes de 25 à moins de 50 ans","Hommes de 50 ans et +","Femmes de 50 ans et +","Etrangers","Hommes étrangers","Femmes étrangères","Niveau de formation : Sortie avant troisième","Niveau de formation : CEP SES","Niveau de formation : BEPC BEP CAP","Niveau de formation : Bac, BTn, BT, BP","Niveau de formation : Bac+2 et plus","Durée du chômage : Moins de 6 mois","Durée du chômage : 6 mois à moins d'un an","Durée du chômage : un an à moins de deux ans","Durée du chômage : plus de deux ans","Motif d'inscription : 1ère entrée sur le marché du travail","Motif d'inscription : Licenciement","Motif d'inscription : Fin de CDD","Réinscription depuis moins de 7 mois d’intervalle","Niveau de qualification : Manoeuvres ou ouvriers spécialisés","Niveau de qualification : Ouvriers qualifiés","Niveau de qualification : Employés non qualifiés","Niveau de qualification : Employés qualifiés","Niveau de qualification : Cadres, techniciens, agents de maitrise","Indemnisés","Titulaires du Revenu Minimum d'Insertion ou du revenu de Solidarité active"
+"Code rÃ©gion","Code unitÃ© urbaine (agglomÃ©ration)","Code dÃ©partement / commune","Nom de la commune","Code IRIS","Nom de la zone","DisponibilitÃ© (voir documentation)","DEFM toutes catÃ©gories","CatÃ©gorie A, B ou C","CatÃ©gorie A","CatÃ©gorie B","CatÃ©gorie C","CatÃ©gorie D","CatÃ©gorie E","Hommes","Femmes","Hommes de moins de 25 ans","Femmes de moins de 25 ans","Hommes de 25 Ã  moins de 50 ans","Femmes de 25 Ã  moins de 50 ans","Hommes de 50 ans et +","Femmes de 50 ans et +","Etrangers","Hommes Ã©trangers","Femmes Ã©trangÃ¨res","Niveau de formation : Sortie avant troisiÃ¨me","Niveau de formation : CEP SES","Niveau de formation : BEPC BEP CAP","Niveau de formation : Bac, BTn, BT, BP","Niveau de formation : Bac+2 et plus","DurÃ©e du chÃ´mage : Moins de 6 mois","DurÃ©e du chÃ´mage : 6 mois Ã  moins d'un an","DurÃ©e du chÃ´mage : un an Ã  moins de deux ans","DurÃ©e du chÃ´mage : plus de deux ans","Motif d'inscription : 1Ã¨re entrÃ©e sur le marchÃ© du travail","Motif d'inscription : Licenciement","Motif d'inscription : Fin de CDD","RÃ©inscription depuis moins de 7 mois dâ€™intervalle","Niveau de qualification : Manoeuvres ou ouvriers spÃ©cialisÃ©s","Niveau de qualification : Ouvriers qualifiÃ©s","Niveau de qualification : EmployÃ©s non qualifiÃ©s","Niveau de qualification : EmployÃ©s qualifiÃ©s","Niveau de qualification : Cadres, techniciens, agents de maitrise","IndemnisÃ©s","Titulaires du Revenu Minimum d'Insertion ou du revenu de SolidaritÃ© active"
 "91","34701","34057","Castelnau-le-Lez","0101","QUARTIER SUD",0,79,64,43,12,9,9,6,35,29,7,6,23,17,5,6,10,7,3,3,1,24,8,28,35,14,6,9,4,11,16,22,1,5,11,30,17,36,9
 "91","34701","34057","Castelnau-le-Lez","0102","GALINE-STADE JEAN FOURNIER-OUEST",0,323,291,203,39,49,19,13,160,131,25,28,110,92,25,11,42,30,12,23,14,104,69,79,157,50,54,30,9,50,77,85,27,31,66,104,61,195,49
 "91","34701","34057","Castelnau-le-Lez","0103","CASTELNAU-CENTRE VILLE",0,138,122,91,11,20,9,7,66,56,10,7,42,39,14,10,9,4,5,7,6,28,17,63,56,19,22,25,6,22,35,30,3,13,15,50,40,77,19
@@ -18,7 +18,7 @@
 "91","34701","34172","Montpellier","0103","SAINT-ELOI",0,197,176,120,20,36,12,9,102,74,20,21,67,51,15,2,25,18,7,10,10,38,34,84,96,38,29,13,11,26,49,66,9,17,32,76,41,93,45
 "91","34701","34172","Montpellier","0105","LAPEYRONIE",0,204,172,122,22,28,17,15,99,73,13,12,81,55,5,6,33,20,13,6,4,37,41,83,97,32,28,15,13,17,61,52,7,13,30,77,44,98,42
 "91","34701","34172","Montpellier","0106","OCCITANIE",0,374,323,254,36,33,26,25,174,149,28,36,133,106,13,7,40,22,18,13,12,83,69,144,176,54,62,31,15,37,100,108,15,27,62,144,73,185,72
-"91","34701","34172","Montpellier","0108","EUROMÉDECINE",4,375,321,228,40,53,26,28,138,183,30,39,101,134,7,10,21,8,13,6,13,85,83,134,163,57,62,39,14,67,95,81,13,18,54,150,84,225,56
+"91","34701","34172","Montpellier","0108","EUROMÃ‰DECINE",4,375,321,228,40,53,26,28,138,183,30,39,101,134,7,10,21,8,13,6,13,85,83,134,163,57,62,39,14,67,95,81,13,18,54,150,84,225,56
 "91","34701","34172","Montpellier","0109","MALBOSC",4,469,409,297,48,64,25,35,226,183,47,38,158,124,21,21,44,30,14,25,19,126,95,144,205,84,76,44,19,67,91,144,29,39,80,170,90,250,87
 "91","34701","34172","Montpellier","0201","LUNARET",0,10,10,8,1,1,0,0,7,3,3,0,4,3,0,0,1,1,0,0,1,1,3,4,6,3,1,0,0,4,3,4,1,0,1,6,1,4,4
 "91","34701","34172","Montpellier","0202","AIGUELONGUE",0,142,120,81,13,26,15,7,62,58,18,14,40,37,4,7,11,4,7,3,2,16,35,63,63,22,21,14,14,14,34,29,7,3,19,43,47,71,20
@@ -70,7 +70,7 @@
 "91","34701","34172","Montpellier","1803","LA LIRONDE",4,347,309,245,25,39,17,21,151,158,20,30,119,113,12,15,39,28,11,15,18,68,86,122,177,54,44,34,17,45,99,86,6,26,43,161,73,177,84
 "91","34701","34172","Montpellier","1804","RIVE DU LEZ",4,411,356,255,50,51,28,27,164,192,25,25,129,145,10,22,41,17,24,23,13,98,70,152,200,53,70,33,7,100,95,84,15,29,51,168,93,251,57
 "91","34701","34172","Montpellier","1901","EUREKA",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"91","34701","34172","Montpellier","1903","MILLÉNAIRE",4,186,163,118,21,24,8,15,77,86,12,17,59,58,6,11,12,8,4,8,8,43,40,64,81,32,26,24,4,34,37,29,7,10,22,81,43,104,29
+"91","34701","34172","Montpellier","1903","MILLÃ‰NAIRE",4,186,163,118,21,24,8,15,77,86,12,17,59,58,6,11,12,8,4,8,8,43,40,64,81,32,26,24,4,34,37,29,7,10,22,81,43,104,29
 "91","34701","34172","Montpellier","1904","GRAMMONT",4,256,227,163,26,38,10,19,128,99,26,13,91,74,11,12,9,7,2,23,19,60,49,75,101,49,48,29,6,59,59,61,10,27,29,102,58,163,39
 "91","34701","34172","Montpellier","2001","PONT DE SETE",0,338,301,224,44,33,16,21,163,138,29,26,118,100,16,12,40,25,15,16,16,82,73,114,160,47,48,46,18,42,78,90,13,26,53,141,66,181,72
 "91","34701","34172","Montpellier","2002","MEDITERRANNEE",0,383,336,254,48,34,23,24,177,159,26,35,132,107,19,17,37,26,11,16,14,71,82,152,176,60,56,44,18,54,102,96,16,29,38,178,74,204,79
@@ -94,7 +94,7 @@
 "91","34701","34172","Montpellier","2601","GAMBETTA",0,902,815,611,113,91,36,51,540,275,55,54,431,192,54,29,189,143,46,97,63,242,153,256,440,130,132,113,43,91,166,288,98,114,135,319,143,419,259
 "91","34701","34172","Montpellier","2602","SAINT-DENIS",0,538,468,326,67,75,36,34,260,208,46,31,186,151,28,26,63,37,26,26,20,107,97,218,235,72,79,82,15,67,123,150,19,46,70,212,121,286,100
 "91","34701","34172","Montpellier","2701","NOMBRE D'OR",0,224,202,148,32,22,14,8,91,111,16,23,62,71,13,17,28,11,17,9,10,47,45,89,110,34,32,26,10,43,62,57,5,13,43,92,47,130,32
-"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÊQUE",4,227,204,156,21,27,10,13,112,92,11,7,82,72,19,13,24,12,12,9,8,50,52,85,96,41,34,33,9,42,51,57,4,19,25,102,53,129,46
+"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÃŠQUE",4,227,204,156,21,27,10,13,112,92,11,7,82,72,19,13,24,12,12,9,8,50,52,85,96,41,34,33,9,42,51,57,4,19,25,102,53,129,46
 "91","34701","34172","Montpellier","2704","PLACE DE L'EUROPE",4,212,192,143,19,30,7,13,92,100,11,18,74,68,7,14,23,11,12,6,7,38,47,94,104,27,38,23,4,28,60,61,10,12,26,91,53,122,38
 "91","34701","34172","Montpellier","2801","LA GUIRLANDE",0,353,314,234,33,47,12,27,172,142,25,28,130,98,17,16,55,40,15,37,26,78,79,94,163,45,56,50,11,48,81,93,31,28,65,140,49,187,87
 "91","34701","34172","Montpellier","2802","CHAPTAL",3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
