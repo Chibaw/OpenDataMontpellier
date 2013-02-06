@@ -1,11 +1,11 @@
 "Revenus fiscaux (2008)",,,,,,,,,,,,,,,,,,,,,
-"Données par ZUS",,,,,,,,,,,,,,,,,,,,,
-"Champ : ZUS de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,
-,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,
-"Source : Direction Générale des Impots, traitement Insee",,,,,,,,,,,,,,,,,,,,,
+"DonnÃ©es par ZUS",,,,,,,,,,,,,,,,,,,,,
+"Champ : ZUS de l'agglomÃ©ration 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomÃ©ration fait partie de la rÃ©gion : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,
+"Source : Direction GÃ©nÃ©rale des Impots, traitement Insee",,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
 "reg","uu","zus","nom","note","NbMen","NbPers","NbUC","RFMQ1","RFMQ2","RFMQ3","RFMD1","RFMD9","RFMMO","RFUCQ1","RFUCQ2","RFUCQ3","RFUCD1","RFUCD9","RFUCMO","PtSa","NbMenNI"
-"Code région","Code unité urbaine (agglomération)","Code ZUS","Nom de la zone","Disponibilité (voir documentation)","Ménages fiscaux ","Personnes dans les  ménages fiscaux ","Unités de consommation","revenu par ménage: premier quartile","revenu par ménage: médiane ","revenu par ménage: dernier quartile","revenu par ménage: premier décile","revenu par ménage: dernier décile","revenu par ménage: moyenne ","revenu par UC: premier quartile","revenu par UC: médiane ","revenu par UC: dernier quartile","revenu par UC: premier décile","revenu par UC: dernier décile","revenu par UC: moyenne ","part traitements et salaires ","Ménages non imposables"
+"Code rÃ©gion","Code unitÃ© urbaine (agglomÃ©ration)","Code ZUS","Nom de la zone","DisponibilitÃ© (voir documentation)","MÃ©nages fiscaux ","Personnes dans les  mÃ©nages fiscaux ","UnitÃ©s de consommation","revenu par mÃ©nage: premier quartile","revenu par mÃ©nage: mÃ©diane ","revenu par mÃ©nage: dernier quartile","revenu par mÃ©nage: premier dÃ©cile","revenu par mÃ©nage: dernier dÃ©cile","revenu par mÃ©nage: moyenne ","revenu par UC: premier quartile","revenu par UC: mÃ©diane ","revenu par UC: dernier quartile","revenu par UC: premier dÃ©cile","revenu par UC: dernier dÃ©cile","revenu par UC: moyenne ","part traitements et salaires ","MÃ©nages non imposables"
 "91","34701","9105030","GELY-FIGUEROLLES",0,988,"2110,5","1473,9",3646,"13438,5",25069,0,37616,"17322,07",1815,8026,16729,0,24700,"10955,91","62,9",659
 "91","34701","9105040","LA PAILLADE",0,5221,"16482,5","9996,3",6583,14294,22457,7,32619,"16131,47",3067,6480,11064,93,16226,"7846,99","69,6",4077
 "91","34701","9105050","LES CEVENNES",0,2832,6024,"4206,1",12653,"20848,5","33195,5",5389,48831,"25702,06",6445,13744,22236,2484,32156,"16315,54","64,72",1409

@@ -1,18 +1,18 @@
 FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
-1;57;0;AB;Fossé;Cours d'eau;432,28406;576,59145
+1;57;0;AB;FossÃ©;Cours d'eau;432,28406;576,59145
 2;57;0;AD; ;Cours d'eau;351,183815;418,815499
 3;57;0;AD;La Lironde (Ruisseau);Cours d'eau;1230,814314;1974,53505
-4;57;0;AK;Fossé;Cours d'eau;496,718583;778,356549
-5;57;0;AK;Fossé;Cours d'eau;536,250015;645,5808
+4;57;0;AK;FossÃ©;Cours d'eau;496,718583;778,356549
+5;57;0;AK;FossÃ©;Cours d'eau;536,250015;645,5808
 6;57;0;AL; ;Cours d'eau;284,670056;403,89845
 7;57;0;AL; ;Cours d'eau;286,888742;292,447499
 8;57;0;AL; ;Cours d'eau;305,369607;633,6587
-9;57;0;AL;Fossé;Cours d'eau;621,352496;1167,93545
-10;57;0;AM;Fossé;Cours d'eau;275,701619;235,1849
-11;57;0;AM;Fossé Fossé;Cours d'eau;279,702693;499,837399
-12;57;0;AO;Fossé;Cours d'eau;680,084636;584,9705
-13;57;0;AW;Le Lez (Rivière);Cours d'eau;932,507675;8224,822256
-14;57;0;AY;LE LEZ (Rivière);Cours d'eau;427,832008;5088,692778
+9;57;0;AL;FossÃ©;Cours d'eau;621,352496;1167,93545
+10;57;0;AM;FossÃ©;Cours d'eau;275,701619;235,1849
+11;57;0;AM;FossÃ© FossÃ©;Cours d'eau;279,702693;499,837399
+12;57;0;AO;FossÃ©;Cours d'eau;680,084636;584,9705
+13;57;0;AW;Le Lez (RiviÃ¨re);Cours d'eau;932,507675;8224,822256
+14;57;0;AY;LE LEZ (RiviÃ¨re);Cours d'eau;427,832008;5088,692778
 15;57;0;BA; ;Cours d'eau;25,232218;26,8042
 16;57;0;BA; ;Cours d'eau;69,194553;66,8164
 17;57;0;BA;(Fleuve) LE LEZ;Cours d'eau;973,770814;8495,127822
@@ -22,7 +22,7 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 21;57;0;BD;(Fleuve) LEZ LE;Cours d'eau;1777,298992;13048,10826
 22;57;0;BE;(Fleuve) LEZ LE;Cours d'eau;478,362891;3291,456192
 23;57;0;BI;Ruisseau de Courtarelle;Cours d'eau;1200,83359;2432,12415
-24;57;0;BI;Fossé;Cours d'eau;2372,604415;3570,45545
+24;57;0;BI;FossÃ©;Cours d'eau;2372,604415;3570,45545
 25;57;0;BK;(Fleuve) LEZ LE;Cours d'eau;1423,032694;13543,03341
 26;57;0;BK; ;Cours d'eau;171,027135;554,6148
 27;57;0;BK; ;Cours d'eau;378,220505;595,3865
@@ -32,39 +32,39 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 31;57;0;BL;LE LEZ (Fleuve);Cours d'eau;1257,981993;11305,46995
 32;57;0;BW; ;Cours d'eau;310,775933;364,89695
 33;57;0;BW; ;Cours d'eau;1050,373497;626,522999
-34;57;0;CM;Fossé;Cours d'eau;425,464747;371,953999
+34;57;0;CM;FossÃ©;Cours d'eau;425,464747;371,953999
 35;77;0;CE; ;Cours d'eau;915,275431;2009,7598
 36;77;0;BN;Ruisseau;Cours d'eau;201,842449;386,605591
 37;77;0;BN;de;Cours d'eau;56,788486;96,93335
 38;77;0;BN;Ruisseau;Cours d'eau;236,797371;528,32515
 39;77;0;BS;Ruisseau;Cours d'eau;1195,412104;4263,655045
-40;77;0;BS;Le Lez (Rivière);Cours d'eau;887,186085;5109,751879
+40;77;0;BS;Le Lez (RiviÃ¨re);Cours d'eau;887,186085;5109,751879
 41;77;0;BS;Ruisseau;Cours d'eau;654,832748;2288,88165
-42;77;0;BV;Le Lez (Rivière);Cours d'eau;1068,938911;8106,027032
+42;77;0;BV;Le Lez (RiviÃ¨re);Cours d'eau;1068,938911;8106,027032
 43;77;0;BW;Ruisseau de Lauriol;Cours d'eau;910,072556;2499,87035
-44;77;0;BX;Lez (Rivière) Le;Cours d'eau;3847,434664;29287,71783
+44;77;0;BX;Lez (RiviÃ¨re) Le;Cours d'eau;3847,434664;29287,71783
 45;77;0;BY;Canaux des Ruisseau;Cours d'eau;824,356357;1787,586606
 46;77;0;BZ;Ruisseau;Cours d'eau;459,459189;952,0797
 47;77;0;BZ;Ruisseau de Lauriol;Cours d'eau;380,522806;1035,37355
 48;77;0;BZ;Ruisseau;Cours d'eau;111,5466;329,07995
 49;77;0;BZ;Ruisseau;Cours d'eau;429,646607;465,27855
 50;77;0;CB;Ruisseau des Peupliers;Cours d'eau;367,727251;381,209434
-51;90;0;BB;fossé;Cours d'eau;382,866095;345,18165
-52;90;0;BC;fossé;Cours d'eau;314,555504;394,82325
-53;90;0;BC;fossé;Cours d'eau;633,927551;1113,15225
-54;90;0;BC;fossé fossé fossé;Cours d'eau;1682,133891;1868,90895
-55;90;0;BD;Fossé;Cours d'eau;412,939878;601,4069
-56;90;0;BE;fossé fossé;Cours d'eau;916,072816;1606,83375
-57;90;0;BE;fossé;Cours d'eau;252,443202;427,466949
-58;90;0;BK;Fossé;Cours d'eau;421,064854;481,3541
-59;90;0;BK;Fossé;Cours d'eau;507,578022;630,1808
-60;90;0;BN;(Rivière) Le Salaison;Cours d'eau;626,0906;2188,167768
-61;90;0;BR;(Rivière) Le Salaison;Cours d'eau;1321,076547;8078,9037
-62;90;0;BR;(Rivière);Cours d'eau;937,736464;3542,6543
+51;90;0;BB;fossÃ©;Cours d'eau;382,866095;345,18165
+52;90;0;BC;fossÃ©;Cours d'eau;314,555504;394,82325
+53;90;0;BC;fossÃ©;Cours d'eau;633,927551;1113,15225
+54;90;0;BC;fossÃ© fossÃ© fossÃ©;Cours d'eau;1682,133891;1868,90895
+55;90;0;BD;FossÃ©;Cours d'eau;412,939878;601,4069
+56;90;0;BE;fossÃ© fossÃ©;Cours d'eau;916,072816;1606,83375
+57;90;0;BE;fossÃ©;Cours d'eau;252,443202;427,466949
+58;90;0;BK;FossÃ©;Cours d'eau;421,064854;481,3541
+59;90;0;BK;FossÃ©;Cours d'eau;507,578022;630,1808
+60;90;0;BN;(RiviÃ¨re) Le Salaison;Cours d'eau;626,0906;2188,167768
+61;90;0;BR;(RiviÃ¨re) Le Salaison;Cours d'eau;1321,076547;8078,9037
+62;90;0;BR;(RiviÃ¨re);Cours d'eau;937,736464;3542,6543
 63;90;0;BT;Ruisseau;Cours d'eau;140,31878;259,757513
-64;90;0;BT;( Rivière ) ( Rivière );Cours d'eau;343,289799;1335,632033
+64;90;0;BT;( RiviÃ¨re ) ( RiviÃ¨re );Cours d'eau;343,289799;1335,632033
 65;90;0;BT; ;Cours d'eau;39,702784;91,3674
-66;90;0;BT;Salaison Le ( Rivière );Cours d'eau;633,96251;2529,288994
+66;90;0;BT;Salaison Le ( RiviÃ¨re );Cours d'eau;633,96251;2529,288994
 67;90;0;BV; ;Cours d'eau;1047,119631;3576,980237
 68;90;0;BX;Ruisseau;Cours d'eau;417,456451;359,398778
 69;90;0;BY; ;Cours d'eau;41,98205;98,0309
@@ -95,17 +95,17 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 94;116;0;AW;(Ruisseau) Rieumassel;Cours d'eau;1497,735242;2647,2501
 95;116;0;AX;Fosse;Cours d'eau;13,602313;10,692954
 96;116;0;AX;Fosse Fosse;Cours d'eau;753,634821;421,25045
-97;116;0;BA;Ruisseau Fossé du Rieumassel Fosse;Cours d'eau;856,523666;1392,667589
+97;116;0;BA;Ruisseau FossÃ© du Rieumassel Fosse;Cours d'eau;856,523666;1392,667589
 98;116;0;BB;(Ruisseau) Rieumassel Le;Cours d'eau;516,446959;550,6741
 99;116;0;BC;La Mosson (Riviere);Cours d'eau;276,897691;932,433155
-100;120;0;AR;Fossé;Cours d'eau;501,670914;513,820306
+100;120;0;AR;FossÃ©;Cours d'eau;501,670914;513,820306
 101;123;0;BC;Fosse des Gousses;Cours d'eau;876,53743;900,275502
 102;123;0;BC;La Mosson (Riviere);Cours d'eau;2989,15829;15047,23159
-103;123;0;BC;Fossé la de Ruisseau dit du Valat de la Fosse;Cours d'eau;262,46269;147,631799
+103;123;0;BC;FossÃ© la de Ruisseau dit du Valat de la Fosse;Cours d'eau;262,46269;147,631799
 104;123;0;BC;Fosse des Gousses;Cours d'eau;464,781796;885,518894
 105;123;0;BC;des Fosse;Cours d'eau;659,389838;1636,88635
 106;123;0;BC;Gousses;Cours d'eau;373,052062;199,435011
-107;123;0;BD;Fossé des Gousses;Cours d'eau;230,77111;214,812167
+107;123;0;BD;FossÃ© des Gousses;Cours d'eau;230,77111;214,812167
 108;123;0;BE;Valat du dit Ruisseau;Cours d'eau;362,686277;349,00405
 109;123;0;BE;(Riviere) Mosson La;Cours d'eau;2424,702224;7947,360069
 110;123;0;BI;(Riviere) La Mosson;Cours d'eau;589,128264;2386,197103
@@ -114,13 +114,13 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 113;123;0;BM;La Mosson (Riviere);Cours d'eau;1234,093295;8899,365715
 114;123;0;BO;(Riviere) La Mosson;Cours d'eau;1435,723763;6367,761853
 115;123;0;BP;(Riviere) LA Mosson;Cours d'eau;863,559532;2577,319937
-116;123;0;CA;Ruisseau de la Fontaine de Courpouiran La Mosson (Rivière);Cours d'eau;1237,906738;2902,830533
-117;123;0;CD;La Mosson Rivière;Cours d'eau;1233,066735;2186,176347
+116;123;0;CA;Ruisseau de la Fontaine de Courpouiran La Mosson (RiviÃ¨re);Cours d'eau;1237,906738;2902,830533
+117;123;0;CD;La Mosson RiviÃ¨re;Cours d'eau;1233,066735;2186,176347
 118;123;0;CE;Ruisseau Ruisseau;Cours d'eau;824,68714;1701,407171
-119;123;0;CE;(Rivière) Mosson La Source du Martinet;Cours d'eau;3811,091534;13236,29852
+119;123;0;CE;(RiviÃ¨re) Mosson La Source du Martinet;Cours d'eau;3811,091534;13236,29852
 120;129;0;AD;Ruisseau Ruisseau Gramenet de du Ruisseau Rieucoulon;Cours d'eau;260,280871;1464,07341
 121;129;0;AH; ;Cours d'eau;81,393403;174,528002
-122;129;0;AK;Fossé;Cours d'eau;731,67821;1210,071904
+122;129;0;AK;FossÃ©;Cours d'eau;731,67821;1210,071904
 123;129;0;AK; ;Cours d'eau;86,137065;108,554705
 124;129;0;AK; ;Cours d'eau;494,795717;628,30695
 125;129;0;AK; ;Cours d'eau;150,58064;209,428099
@@ -247,18 +247,18 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 246;129;0;BH; ;Cours d'eau;359,283051;598,5727
 247;129;0;BH; ;Cours d'eau;163,025748;169,206049
 248;129;0;BH; ;Cours d'eau;227,674267;207,0883
-249;129;0;BI;fossé fossé;Cours d'eau;230,834816;302,31335
+249;129;0;BI;fossÃ© fossÃ©;Cours d'eau;230,834816;302,31335
 250;129;0;BI; ;Cours d'eau;313,876065;466,545499
-251;129;0;BI;fossé;Cours d'eau;314,724414;228,242549
+251;129;0;BI;fossÃ©;Cours d'eau;314,724414;228,242549
 252;129;0;BI; ;Cours d'eau;119,324531;141,0889
-253;129;0;BI;fossé;Cours d'eau;205,396728;257,739049
-254;129;0;BI;fossé;Cours d'eau;95,976519;116,60875
+253;129;0;BI;fossÃ©;Cours d'eau;205,396728;257,739049
+254;129;0;BI;fossÃ©;Cours d'eau;95,976519;116,60875
 255;129;0;BI;fosse;Cours d'eau;382,427438;1354,3395
-256;129;0;BI;fossé;Cours d'eau;512,000939;659,128599
-257;129;0;BI;fossé;Cours d'eau;470,879252;406,8855
+256;129;0;BI;fossÃ©;Cours d'eau;512,000939;659,128599
+257;129;0;BI;fossÃ©;Cours d'eau;470,879252;406,8855
 258;129;0;BI;fosse;Cours d'eau;427,383342;690,06395
 259;129;0;BI; ;Cours d'eau;232,875908;317,9095
-260;129;0;BI;fossé;Cours d'eau;171,82727;243,85155
+260;129;0;BI;fossÃ©;Cours d'eau;171,82727;243,85155
 261;129;0;BI; ;Cours d'eau;14,61926;6,6523
 262;129;0;BI; ;Cours d'eau;5,940392;2,1275
 263;129;0;BI; ;Cours d'eau;42,656376;53,8383
@@ -327,10 +327,10 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 326;129;0;CM; ;Cours d'eau;192,474759;258,917699
 327;129;0;CM; ;Cours d'eau;785,17899;1243,06725
 328;129;0;CM; ;Cours d'eau;173,520188;165,7135
-329;129;0;CM;fossé;Cours d'eau;475,222813;1225,8828
+329;129;0;CM;fossÃ©;Cours d'eau;475,222813;1225,8828
 330;129;0;CM;(Ruisseau) Lironde La;Cours d'eau;958,004038;3649,71085
 331;129;0;CM; ;Cours d'eau;30,109546;55,188049
-332;129;0;CN;fossé;Cours d'eau;482,49985;731,774949
+332;129;0;CN;fossÃ©;Cours d'eau;482,49985;731,774949
 333;129;0;CN; ;Cours d'eau;255,80372;353,5228
 334;129;0;CN;Lironde la Ruisseau de;Cours d'eau;620,496045;2233,2794
 335;129;0;CO;(Ruisseau) Lironde La;Cours d'eau;1151,806154;4663,8861
@@ -346,7 +346,7 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 345;129;0;CY; ;Cours d'eau;291,818685;472,8609
 346;129;0;CY; ;Cours d'eau;81,503977;278,01905
 347;129;0;CY; ;Cours d'eau;98,818078;125,571349
-348;129;0;CY;fossé;Cours d'eau;363,986053;500,633999
+348;129;0;CY;fossÃ©;Cours d'eau;363,986053;500,633999
 349;129;0;CY;Le Lez;Cours d'eau;1591,654326;26980,6611
 350;129;0;CY; ;Cours d'eau;118,302934;426,83405
 351;129;0;CY; ;Cours d'eau;211,683786;239,25685
@@ -378,10 +378,10 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 377;129;0;DC; ;Cours d'eau;11,77965;6,205399
 378;129;0;DC; ;Cours d'eau;45,021241;26,4411
 379;129;0;DC; ;Cours d'eau;18,096335;9,499199
-380;129;0;DD;fossé;Cours d'eau;304,13581;387,7951
-381;129;0;DD;fossé fossé;Cours d'eau;433,033087;878,478949
+380;129;0;DD;fossÃ©;Cours d'eau;304,13581;387,7951
+381;129;0;DD;fossÃ© fossÃ©;Cours d'eau;433,033087;878,478949
 382;129;0;DD; ;Cours d'eau;140,532398;159,40385
-383;129;0;DD;fossé;Cours d'eau;27,933118;28,60255
+383;129;0;DD;fossÃ©;Cours d'eau;27,933118;28,60255
 384;129;0;DD; ;Cours d'eau;90,29684;85,30895
 385;129;0;DD; ;Cours d'eau;60,489974;59,822549
 386;129;0;DH; ;Cours d'eau;894,446552;4343,84255
@@ -389,17 +389,17 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 388;129;0;DH; ;Cours d'eau;339,140079;369,8213
 389;129;0;DI; ;Cours d'eau;362,493513;892,962099
 390;129;0;DI;Lironde La Lironde;Cours d'eau;485,237385;980,63225
-391;129;0;DI;fossé;Cours d'eau;129,842073;180,17625
-392;129;0;DI;fossé;Cours d'eau;197,832272;274,162499
-393;129;0;DI;fossé;Cours d'eau;206,459266;281,0719
-394;129;0;DI;fossé;Cours d'eau;211,683307;299,9481
+391;129;0;DI;fossÃ©;Cours d'eau;129,842073;180,17625
+392;129;0;DI;fossÃ©;Cours d'eau;197,832272;274,162499
+393;129;0;DI;fossÃ©;Cours d'eau;206,459266;281,0719
+394;129;0;DI;fossÃ©;Cours d'eau;211,683307;299,9481
 395;129;0;DI; ;Cours d'eau;740,782771;2543,05735
-396;129;0;DI;fossé;Cours d'eau;237,377734;410,18795
+396;129;0;DI;fossÃ©;Cours d'eau;237,377734;410,18795
 397;129;0;DN; ;Cours d'eau;24,589067;28,5691
 398;129;0;DN; ;Cours d'eau;31,360121;33,623849
 399;129;0;DN; ;Cours d'eau;43,086077;50,67515
 400;129;0;DN; ;Cours d'eau;212,174291;304,80195
-401;129;0;DN;fossé;Cours d'eau;878,016388;1608,077499
+401;129;0;DN;fossÃ©;Cours d'eau;878,016388;1608,077499
 402;129;0;DN; ;Cours d'eau;187,772375;236,534599
 403;129;0;DN; ;Cours d'eau;178,494827;284,9648
 404;129;0;DN; ;Cours d'eau;177,29509;262,74395
@@ -412,7 +412,7 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 411;129;0;DN; ;Cours d'eau;177,29509;262,74395
 412;129;0;DN; ;Cours d'eau;178,494827;284,9648
 413;129;0;DN; ;Cours d'eau;187,772375;236,534599
-414;129;0;DN;fossé;Cours d'eau;878,016388;1608,077499
+414;129;0;DN;fossÃ©;Cours d'eau;878,016388;1608,077499
 415;129;0;DN; ;Cours d'eau;212,174291;304,80195
 416;129;0;DN; ;Cours d'eau;43,086077;50,67515
 417;129;0;DN; ;Cours d'eau;31,360121;33,623849
@@ -465,39 +465,39 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 464;129;0;EN; ;Cours d'eau;787,343664;1636,223549
 465;129;0;EN; ;Cours d'eau;275,562563;532,5231
 466;129;0;EN; ;Cours d'eau;580,219661;877,3952
-467;134;0;BZ;Fossé des Gousses;Cours d'eau;1168,639246;1002,844134
-468;134;0;BZ;des Fossé Gousses;Cours d'eau;84,224185;39,364751
-469;134;0;BZ;des Fossé;Cours d'eau;1310,858975;1640,70145
+467;134;0;BZ;FossÃ© des Gousses;Cours d'eau;1168,639246;1002,844134
+468;134;0;BZ;des FossÃ© Gousses;Cours d'eau;84,224185;39,364751
+469;134;0;BZ;des FossÃ©;Cours d'eau;1310,858975;1640,70145
 470;134;0;BZ;Gousses;Cours d'eau;225,617506;276,4225
-471;134;0;BC;La Mosson (Rivière);Cours d'eau;813,992079;1460,283202
-472;134;0;BC;Ruisseau des Près;Cours d'eau;894,454276;1211,0321
+471;134;0;BC;La Mosson (RiviÃ¨re);Cours d'eau;813,992079;1460,283202
+472;134;0;BC;Ruisseau des PrÃ¨s;Cours d'eau;894,454276;1211,0321
 473;134;0;BD; ;Cours d'eau;484,564638;309,27885
-474;134;0;BD;La Mosson (Rivière);Cours d'eau;467,061515;1009,55038
+474;134;0;BD;La Mosson (RiviÃ¨re);Cours d'eau;467,061515;1009,55038
 475;134;0;BD;Ruisseau des Pres;Cours d'eau;759,919894;1255,46355
 476;134;0;BE; ;Cours d'eau;357,807721;334,05735
 477;134;0;BE; ;Cours d'eau;214,664477;235,4271
-478;134;0;BE;La Mosson ( Rivière );Cours d'eau;1346,705198;2212,236451
-479;134;0;BE;Ruisseau des Prés;Cours d'eau;624,532284;741,96945
-480;134;0;BH;Lasséderon du Ruisseau La Mosson ( Rivière );Cours d'eau;2506,598448;5372,73138
-481;134;0;BO;Mosson La (Rivière);Cours d'eau;965,65678;1702,795283
-482;134;0;BO;Capouillère la de Ruisseau Ruisseau des Prés;Cours d'eau;1361,770039;1758,17325
-483;134;0;BP;Capouillière la de Ruisseau;Cours d'eau;1125,222497;637,7136
-484;134;0;BP;(Rivière) La Mosson;Cours d'eau;1356,017689;3637,44819
-485;134;0;BR;Fossé de la Capoulière;Cours d'eau;174,560615;491,3977
-486;134;0;BS;fossé de la Capouillère;Cours d'eau;1145,184056;4022,472351
-487;134;0;BT;fossé de la Capouillère;Cours d'eau;203,180569;403,536202
+478;134;0;BE;La Mosson ( RiviÃ¨re );Cours d'eau;1346,705198;2212,236451
+479;134;0;BE;Ruisseau des PrÃ©s;Cours d'eau;624,532284;741,96945
+480;134;0;BH;LassÃ©deron du Ruisseau La Mosson ( RiviÃ¨re );Cours d'eau;2506,598448;5372,73138
+481;134;0;BO;Mosson La (RiviÃ¨re);Cours d'eau;965,65678;1702,795283
+482;134;0;BO;CapouillÃ¨re la de Ruisseau Ruisseau des PrÃ©s;Cours d'eau;1361,770039;1758,17325
+483;134;0;BP;CapouilliÃ¨re la de Ruisseau;Cours d'eau;1125,222497;637,7136
+484;134;0;BP;(RiviÃ¨re) La Mosson;Cours d'eau;1356,017689;3637,44819
+485;134;0;BR;FossÃ© de la CapouliÃ¨re;Cours d'eau;174,560615;491,3977
+486;134;0;BS;fossÃ© de la CapouillÃ¨re;Cours d'eau;1145,184056;4022,472351
+487;134;0;BT;fossÃ© de la CapouillÃ¨re;Cours d'eau;203,180569;403,536202
 488;154;0;DK;de dit Ruisseau Cats Negue;Cours d'eau;1131,668885;1014,122649
 489;154;0;DL;de Negue Cats dit;Cours d'eau;1021,629534;1177,14375
 490;154;0;DL;Ruisseau;Cours d'eau;260,809859;254,418505
-491;169;0;AA;Le Lez (Rivière) (Rivière);Cours d'eau;1424,73869;7268,991659
+491;169;0;AA;Le Lez (RiviÃ¨re) (RiviÃ¨re);Cours d'eau;1424,73869;7268,991659
 492;169;0;AA;La;Cours d'eau;502,616363;1673,163075
 493;169;0;AA;Lironde;Cours d'eau;407,61547;1192,169953
 494;169;0;AA; ;Cours d'eau;686,791334;1600,089184
-495;169;0;AB;Le Lez (Rivière);Cours d'eau;1227,625779;7199,263068
-496;169;0;AC;Le Laussel Lez (Rivière) Ruisseau;Cours d'eau;1288,335801;6145,934646
+495;169;0;AB;Le Lez (RiviÃ¨re);Cours d'eau;1227,625779;7199,263068
+496;169;0;AC;Le Laussel Lez (RiviÃ¨re) Ruisseau;Cours d'eau;1288,335801;6145,934646
 497;169;0;AD;La;Cours d'eau;286,832594;334,940378
 498;169;0;AD;Lironde;Cours d'eau;371,500036;819,878437
-499;169;0;AD;(Rivière);Cours d'eau;377,530235;882,326782
+499;169;0;AD;(RiviÃ¨re);Cours d'eau;377,530235;882,326782
 500;169;0;AD;Ruisseau;Cours d'eau;228,432848;140,237449
 501;169;0;AD;Ruisseau;Cours d'eau;162,9472;66,1771
 502;169;0;AD; ;Cours d'eau;207,884295;93,182949
@@ -507,12 +507,12 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 506;169;0;AH;Ruisseau;Cours d'eau;466,118578;362,794099
 507;169;0;AH;La;Cours d'eau;590,427412;707,734745
 508;169;0;AH;Lironde;Cours d'eau;179,200376;246,057442
-509;169;0;AH;(Rivière);Cours d'eau;582,382925;897,291058
+509;169;0;AH;(RiviÃ¨re);Cours d'eau;582,382925;897,291058
 510;169;0;AH;Ruisseau;Cours d'eau;357,460046;346,761999
 511;169;0;AH; ;Cours d'eau;59,15014;37,73765
 512;169;0;AH; ;Cours d'eau;283,365447;194,0612
 513;169;0;AI;La Lironde;Cours d'eau;337,352738;412,312401
-514;169;0;AI;(Rivière);Cours d'eau;208,976114;162,164134
+514;169;0;AI;(RiviÃ¨re);Cours d'eau;208,976114;162,164134
 515;169;0;AI;Ruisseau Ruisseau;Cours d'eau;710,035746;709,632743
 516;172;0; ;(Ruisseau) Le Lantissargues;Cours d'eau;315,449672;462,55556
 517;172;0; ;????;Cours d'eau;165,958157;168,436757
@@ -534,40 +534,40 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 533;172;0; ;(Ruisseau) des Vaches;Cours d'eau;165,330375;126,597207
 534;172;0; ;(Ruisseau) des Vaches;Cours d'eau;182,684072;166,224709
 535;172;0; ;(Ruisseau) Le Pissessaume;Cours d'eau;274,309349;900,649484
-536;172;0; ;(Ruisseau) le Chambéry;Cours d'eau;986,359426;773,624049
-537;172;0; ;Aqueduc de Saint-Clément;Cours d'eau;979,65178;2893,550278
-538;172;0; ;(Fossé);Cours d'eau;489,738574;743,42125
+536;172;0; ;(Ruisseau) le ChambÃ©ry;Cours d'eau;986,359426;773,624049
+537;172;0; ;Aqueduc de Saint-ClÃ©ment;Cours d'eau;979,65178;2893,550278
+538;172;0; ;(FossÃ©);Cours d'eau;489,738574;743,42125
 539;172;0; ;(Ruisseau);Cours d'eau;753,283238;1014,391497
-540;172;0; ;(Ruisseau) le Chambéry;Cours d'eau;761,078711;1931,893036
+540;172;0; ;(Ruisseau) le ChambÃ©ry;Cours d'eau;761,078711;1931,893036
 541;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;986,240549;5193,853456
 542;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;1114,78671;6449,551311
 543;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;387,562733;1735,255363
 544;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;243,820783;1088,47217
 545;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;334,532379;2201,57086
-546;172;0; ;(Ruisseau) le Chambéry;Cours d'eau;111,909203;187,990716
-547;172;0; ;(Ruisseau) le Chambéry;Cours d'eau;145,372646;313,634685
-548;172;0; ;(Ruisseau) le Chambéry;Cours d'eau;115,994665;218,240239
+546;172;0; ;(Ruisseau) le ChambÃ©ry;Cours d'eau;111,909203;187,990716
+547;172;0; ;(Ruisseau) le ChambÃ©ry;Cours d'eau;145,372646;313,634685
+548;172;0; ;(Ruisseau) le ChambÃ©ry;Cours d'eau;115,994665;218,240239
 549;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;663,867007;3517,331644
 550;172;0; ;(Ruisseau) Le Lantissargues;Cours d'eau;39,366264;85,034635
 551;172;0; ;(Ruisseau) Le Lantissargues;Cours d'eau;451,948317;1463,25283
 552;172;0; ;(Ruisseau) Les Aiguerelles;Cours d'eau;1058,625243;6477,933916
-553;172;0; ;Aqueduc de Saint-Clément;Cours d'eau;1055,663494;3093,12145
-554;172;0; ;Aqueduc de Saint-Clément;Cours d'eau;942,548348;2879,447702
+553;172;0; ;Aqueduc de Saint-ClÃ©ment;Cours d'eau;1055,663494;3093,12145
+554;172;0; ;Aqueduc de Saint-ClÃ©ment;Cours d'eau;942,548348;2879,447702
 555;172;0; ;????;Cours d'eau;397,044575;491,918315
-556;172;0; ;Aqueduc de Saint-Clément;Cours d'eau;207,127881;577,39215
-557;172;0; ;Aqueduc de Saint-Clément;Cours d'eau;1132,029275;3103,882264
-558;172;0; ;Aqueduc de Saint-Clément;Cours d'eau;433,754732;1313,2791
+556;172;0; ;Aqueduc de Saint-ClÃ©ment;Cours d'eau;207,127881;577,39215
+557;172;0; ;Aqueduc de Saint-ClÃ©ment;Cours d'eau;1132,029275;3103,882264
+558;172;0; ;Aqueduc de Saint-ClÃ©ment;Cours d'eau;433,754732;1313,2791
 559;172;0; ;????;Cours d'eau;285,361313;358,693646
 560;172;0; ;????;Cours d'eau;102,468882;184,364883
 561;172;0; ;(Ruisseau) dit Valat de Fesquet et de Tomassy;Cours d'eau;1334,915015;2642,093137
 562;172;0; ;(Ruisseau) La Lironde;Cours d'eau;1259,63534;5818,31773
 563;172;0; ;(Ruisseau) La Lironde;Cours d'eau;424,78127;2324,747553
-564;172;0; ;(Rivière) Le Lez;Cours d'eau;1542,969219;24381,38454
+564;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;1542,969219;24381,38454
 565;172;0; ;(Ruisseau) de la Combe de la Valette;Cours d'eau;973,999743;870,289701
 566;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;1249,349037;10581,49551
-567;172;0; ;(Rivière) Le Lez;Cours d'eau;2611,208158;53934,62394
-568;172;0; ;(Rivière) La Lironde;Cours d'eau;889,986562;2146,031808
-569;172;0; ;(Rivière) La Lironde;Cours d'eau;447,099301;1074,154278
+567;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;2611,208158;53934,62394
+568;172;0; ;(RiviÃ¨re) La Lironde;Cours d'eau;889,986562;2146,031808
+569;172;0; ;(RiviÃ¨re) La Lironde;Cours d'eau;447,099301;1074,154278
 570;172;0; ;(Ruisseau) Le Lantissargues;Cours d'eau;239,417604;327,200811
 571;172;0; ;(Ruisseau) Le Lantissargues;Cours d'eau;1277,246371;2342,527339
 572;172;0; ;(Ruisseau) Le Lantissargues;Cours d'eau;924,776228;2100,31362
@@ -576,33 +576,33 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 575;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;425,579358;658,646853
 576;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;496,272743;921,169096
 577;172;0; ;(Ruisseau) Maire;Cours d'eau;788,196128;1440,086189
-578;172;0; ;(Fossé);Cours d'eau;657,486879;684,165582
+578;172;0; ;(FossÃ©);Cours d'eau;657,486879;684,165582
 579;172;0; ;(Ruisseau) Le Rieucoulon;Cours d'eau;600,333349;519,173596
 580;172;0; ;(Ruisseau) Le Rieucoulon;Cours d'eau;867,675038;875,021
 581;172;0; ;(Ruisseau) Le Rieucoulon;Cours d'eau;301,445384;608,432596
-582;172;0; ;(Fossé);Cours d'eau;222,175609;276,456687
-583;172;0; ;(Fossé);Cours d'eau;321,849243;272,687488
-584;172;0; ;(Fossé);Cours d'eau;450,605768;433,905286
-585;172;0; ;(Fossé);Cours d'eau;826,240568;785,091384
-586;172;0; ;(Fossé);Cours d'eau;258,397217;271,744667
+582;172;0; ;(FossÃ©);Cours d'eau;222,175609;276,456687
+583;172;0; ;(FossÃ©);Cours d'eau;321,849243;272,687488
+584;172;0; ;(FossÃ©);Cours d'eau;450,605768;433,905286
+585;172;0; ;(FossÃ©);Cours d'eau;826,240568;785,091384
+586;172;0; ;(FossÃ©);Cours d'eau;258,397217;271,744667
 587;172;0; ;????;Cours d'eau;608,436912;950,43436
-588;172;0; ;(Ruisseau) de Nègue-Cats;Cours d'eau;2111,724192;4400,38646
+588;172;0; ;(Ruisseau) de NÃ¨gue-Cats;Cours d'eau;2111,724192;4400,38646
 589;172;0; ;????;Cours d'eau;860,24596;812,08527
-590;172;0; ;(Fossé);Cours d'eau;242,717233;613,486238
-591;172;0; ;(Fossé);Cours d'eau;330,90319;585,309788
-592;172;0; ;(Fossé) Maïre;Cours d'eau;500,879012;718,49088
-593;172;0; ;(Fossé) Maïre;Cours d'eau;563,119285;428,064213
+590;172;0; ;(FossÃ©);Cours d'eau;242,717233;613,486238
+591;172;0; ;(FossÃ©);Cours d'eau;330,90319;585,309788
+592;172;0; ;(FossÃ©) MaÃ¯re;Cours d'eau;500,879012;718,49088
+593;172;0; ;(FossÃ©) MaÃ¯re;Cours d'eau;563,119285;428,064213
 594;172;0; ;(Ruisseau) de Font d'Aurelle;Cours d'eau;272,82602;639,776087
 595;172;0; ;(Ruisseau) de Font d'Aurelle;Cours d'eau;82,137312;186,784772
 596;172;0; ;(Ruisseau) de Font d'Aurelle;Cours d'eau;154,691577;583,558012
 597;172;0; ;(Ruisseau) de Font d'Aurelle;Cours d'eau;652,301634;1237,407002
 598;172;0; ;????;Cours d'eau;211,870018;384,693295
-599;172;0; ;(Fossé) Maire;Cours d'eau;128,102138;239,594663
+599;172;0; ;(FossÃ©) Maire;Cours d'eau;128,102138;239,594663
 600;172;0; ;????;Cours d'eau;689,703046;1107,005801
 601;172;0; ;????;Cours d'eau;33,479526;42,086035
-602;172;0; ;(Fossé) Maire;Cours d'eau;506,564966;720,006444
-603;172;0; ;(Fossé) Maire;Cours d'eau;43,41042;46,001887
-604;172;0; ;(Fossé) Maire;Cours d'eau;115,64737;178,484616
+602;172;0; ;(FossÃ©) Maire;Cours d'eau;506,564966;720,006444
+603;172;0; ;(FossÃ©) Maire;Cours d'eau;43,41042;46,001887
+604;172;0; ;(FossÃ©) Maire;Cours d'eau;115,64737;178,484616
 605;172;0; ;????;Cours d'eau;605,580157;1178,602901
 606;172;0; ;????;Cours d'eau;131,448262;239,558897
 607;172;0; ;????;Cours d'eau;415,352505;798,391253
@@ -611,12 +611,12 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 610;172;0; ;????;Cours d'eau;257,175301;354,37961
 611;172;0; ;(Ruisseau);Cours d'eau;595,406272;2346,22829
 612;172;0; ;(Ruisseau);Cours d'eau;342,434476;770,47985
-613;172;0; ;(Fossé);Cours d'eau;560,294367;1068,116079
-614;172;0; ;(Fossé);Cours d'eau;99,45341;59,125778
-615;172;0; ;(Rivière) La Mosson;Cours d'eau;210,91896;2885,932508
-616;172;0; ;(Rivière) La Mosson;Cours d'eau;1796,190685;34330,47411
-617;172;0; ;(Rivière) La Mosson;Cours d'eau;4106,371821;36490,37592
-618;172;0; ;(Rivière) La Mosson;Cours d'eau;85,785013;442,534486
+613;172;0; ;(FossÃ©);Cours d'eau;560,294367;1068,116079
+614;172;0; ;(FossÃ©);Cours d'eau;99,45341;59,125778
+615;172;0; ;(RiviÃ¨re) La Mosson;Cours d'eau;210,91896;2885,932508
+616;172;0; ;(RiviÃ¨re) La Mosson;Cours d'eau;1796,190685;34330,47411
+617;172;0; ;(RiviÃ¨re) La Mosson;Cours d'eau;4106,371821;36490,37592
+618;172;0; ;(RiviÃ¨re) La Mosson;Cours d'eau;85,785013;442,534486
 619;172;0; ;(Ruisseau) de Font d'Aurelle;Cours d'eau;100,578192;107,985906
 620;172;0; ;(Ruisseau) de Font d'Aurelle;Cours d'eau;1964,090565;2333,989568
 621;172;0; ;(Ruisseau) de Font d'Aurelle;Cours d'eau;594,87933;1229,496462
@@ -625,31 +625,31 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 624;172;0; ;(Ruisseau) dit Valat de Fesquet et de Tomassy;Cours d'eau;838,305656;1999,538315
 625;172;0; ;(Ruisseau) dit Valat de Fesquet et de Tomassy;Cours d'eau;1414,289391;2377,035481
 626;172;0; ;(Ruisseau) La Lironde;Cours d'eau;711,407383;3141,469151
-627;172;0; ;(Fossé);Cours d'eau;498,424863;1144,755965
-628;172;0; ;(Rivière) Le Lez;Cours d'eau;503,611114;6475,63377
-629;172;0; ;(Rivière) Le Lez;Cours d'eau;486,652866;9241,19221
-630;172;0; ;(Rivière) Le Lez;Cours d'eau;1915,950227;31897,37928
-631;172;0; ;(Rivière) Le Lez;Cours d'eau;238,686369;3137,840445
-632;172;0; ;(Rivière) Le Lez;Cours d'eau;454,854244;8393,046315
-633;172;0; ;(Rivière) Le Lez;Cours d'eau;162,886552;1475,067548
-634;172;0; ;(Rivière) Le Lez;Cours d'eau;554,532231;6828,147699
-635;172;0; ;(Rivière) Le Lez;Cours d'eau;186,06332;2035,272099
-636;172;0; ;(Rivière) Le Lez;Cours d'eau;408,946756;5910,287552
-637;172;0; ;(Rivière) Le Lez;Cours d'eau;7895,498438;116382,1678
-638;172;0; ;(Rivière) Le Lez;Cours d'eau;263,89864;4333,519684
-639;172;0; ;(Rivière) Le Lez;Cours d'eau;2050,893866;31067,3762
-640;172;0; ;(Rivière) Le Lez;Cours d'eau;952,952088;12595,45962
-641;172;0; ;(Ruisseau) le Chambéry;Cours d'eau;172,706488;177,593775
-642;172;0; ;(Ruisseau) le Chambéry;Cours d'eau;427,590783;861,068915
-643;172;0; ;(Fossé) La Lironde;Cours d'eau;97,622356;200,95749
-644;172;0; ;(Fossé) La Lironde;Cours d'eau;100,993261;207,202656
-645;172;0; ;(Rivière) La Lironde;Cours d'eau;1537,665132;3025,08438
-646;172;0; ;(Rivière) La Lironde;Cours d'eau;825,154964;1547,957209
-647;172;0; ;(Rivière) La Lironde;Cours d'eau;1044,025972;2699,904459
-648;172;0; ;(Fossé) La Lironde;Cours d'eau;909,276729;2744,951949
-649;172;0; ;(Fossé);Cours d'eau;18,711275;21,650531
-650;172;0; ;(Fossé);Cours d'eau;2052,547211;4036,217133
-651;172;0; ;(Fossé);Cours d'eau;202,877068;404,223718
+627;172;0; ;(FossÃ©);Cours d'eau;498,424863;1144,755965
+628;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;503,611114;6475,63377
+629;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;486,652866;9241,19221
+630;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;1915,950227;31897,37928
+631;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;238,686369;3137,840445
+632;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;454,854244;8393,046315
+633;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;162,886552;1475,067548
+634;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;554,532231;6828,147699
+635;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;186,06332;2035,272099
+636;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;408,946756;5910,287552
+637;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;7895,498438;116382,1678
+638;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;263,89864;4333,519684
+639;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;2050,893866;31067,3762
+640;172;0; ;(RiviÃ¨re) Le Lez;Cours d'eau;952,952088;12595,45962
+641;172;0; ;(Ruisseau) le ChambÃ©ry;Cours d'eau;172,706488;177,593775
+642;172;0; ;(Ruisseau) le ChambÃ©ry;Cours d'eau;427,590783;861,068915
+643;172;0; ;(FossÃ©) La Lironde;Cours d'eau;97,622356;200,95749
+644;172;0; ;(FossÃ©) La Lironde;Cours d'eau;100,993261;207,202656
+645;172;0; ;(RiviÃ¨re) La Lironde;Cours d'eau;1537,665132;3025,08438
+646;172;0; ;(RiviÃ¨re) La Lironde;Cours d'eau;825,154964;1547,957209
+647;172;0; ;(RiviÃ¨re) La Lironde;Cours d'eau;1044,025972;2699,904459
+648;172;0; ;(FossÃ©) La Lironde;Cours d'eau;909,276729;2744,951949
+649;172;0; ;(FossÃ©);Cours d'eau;18,711275;21,650531
+650;172;0; ;(FossÃ©);Cours d'eau;2052,547211;4036,217133
+651;172;0; ;(FossÃ©);Cours d'eau;202,877068;404,223718
 652;172;0; ;(Ruisseau) des Gours;Cours d'eau;337,143397;714,4765
 653;172;0; ;(Ruisseau) Le Rieucoulon;Cours d'eau;930,909458;1938,608073
 654;172;0; ;(Ruisseau) Le Rieucoulon;Cours d'eau;138,692167;518,279844
@@ -664,7 +664,7 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 663;172;0; ;(Ruisseau) Le Rieucoulon;Cours d'eau;1439,728336;3653,840757
 664;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;492,663078;1080,079601
 665;172;0; ;(Ruisseau) Le Verdanson;Cours d'eau;2427,063206;10913,61612
-666;172;0; ;(Rivière) La Mosson;Cours d'eau;8334,510998;52785,04901
+666;172;0; ;(RiviÃ¨re) La Mosson;Cours d'eau;8334,510998;52785,04901
 667;172;0; ;Lac des Garrigues;Cours d'eau;762,640879;16761,47076
 668;172;0; ;(fleche de cours d'eau);Fleche de cours d'eau;27,465507;2,424931
 669;172;0; ;(fleche de cours d'eau);Fleche de cours d'eau;27,285833;2,307193
@@ -806,21 +806,21 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 805;270;0;AA;Fjoc;Cours d'eau;541,114102;500,4389
 806;270;0;AA; ;Cours d'eau;325,380515;586,842199
 807;270;0;AB; ;Cours d'eau;398,273695;766,100299
-808;270;0;AB;Peyre de Capoulière de dit Ruisseau à;Cours d'eau;1121,297839;1332,0001
+808;270;0;AB;Peyre de CapouliÃ¨re de dit Ruisseau Ã ;Cours d'eau;1121,297839;1332,0001
 809;270;0;AC;La Mosson;Cours d'eau;41,972704;98,722209
-810;270;0;AC;Fossé;Cours d'eau;686,38861;1129,6153
+810;270;0;AC;FossÃ©;Cours d'eau;686,38861;1129,6153
 811;270;0;AD;La Mosson;Cours d'eau;244,336903;1353,318825
-812;270;0;AD;(Rivière) Mosson (Rivière) La;Cours d'eau;528,897508;2118,041986
-813;270;0;AE;Mosson La (Rivière);Cours d'eau;3780,433801;17572,49795
+812;270;0;AD;(RiviÃ¨re) Mosson (RiviÃ¨re) La;Cours d'eau;528,897508;2118,041986
+813;270;0;AE;Mosson La (RiviÃ¨re);Cours d'eau;3780,433801;17572,49795
 814;270;0;AE; ;Cours d'eau;211,336322;794,5931
 815;270;0;AE; ;Cours d'eau;790,870209;2924,741966
-816;270;0;AM;(Rivière) Mosson La;Cours d'eau;1038,285881;1522,843684
-817;270;0;AN;La Mosson (Rivière);Cours d'eau;951,060167;1216,926297
+816;270;0;AM;(RiviÃ¨re) Mosson La;Cours d'eau;1038,285881;1522,843684
+817;270;0;AN;La Mosson (RiviÃ¨re);Cours d'eau;951,060167;1216,926297
 818;270;0;AN;Fuste la de Pont du Ruisseau;Cours d'eau;541,182678;540,2519
 819;270;0;AN; ;Cours d'eau;121,870393;64,99235
-820;270;0;AW;Capoulière dit Ruisseau;Cours d'eau;591,562157;1175,94575
+820;270;0;AW;CapouliÃ¨re dit Ruisseau;Cours d'eau;591,562157;1175,94575
 821;270;0;AX;Ruisseau;Cours d'eau;442,575679;835,0331
-822;270;0;AX;Ruisseau dit Capoulière;Cours d'eau;989,450471;867,721199
+822;270;0;AX;Ruisseau dit CapouliÃ¨re;Cours d'eau;989,450471;867,721199
 823;270;0;AZ;Rieucoulon dit Ruisseau;Cours d'eau;1143,585186;1862,662549
 824;270;0;BA;Rieucoulon Le;Cours d'eau;603,515248;717,587032
 825;270;0;BA;(Ruisseau);Cours d'eau;430,41705;564,124888
@@ -834,9 +834,9 @@ FID_;CODE_COM;PRE;SECTION_;TEXTE;SYM;Shape_Leng;Shape_Area
 833;270;0;BH;coulon Rieu du Ruisseau;Cours d'eau;1128,02752;1496,23385
 834;270;0;BN; ;Cours d'eau;470,375828;634,1562
 835;270;0;BN;Orts des Ruisseau;Cours d'eau;463,596759;811,25105
-836;270;0;BN;(Rivière) Mosson La Orts des Ruisseau;Cours d'eau;1767,224186;3344,839808
-837;270;0;BP;Fossé;Cours d'eau;361,936833;211,335349
-838;270;0;BP;(Rivière);Cours d'eau;606,294863;1129,151994
+836;270;0;BN;(RiviÃ¨re) Mosson La Orts des Ruisseau;Cours d'eau;1767,224186;3344,839808
+837;270;0;BP;FossÃ©;Cours d'eau;361,936833;211,335349
+838;270;0;BP;(RiviÃ¨re);Cours d'eau;606,294863;1129,151994
 839;270;0;BP;Mosson La;Cours d'eau;514,884564;912,041923
-840;270;0;BR;La Mosson ( Rivière );Cours d'eau;949,515578;1798,225558
-841;270;0;BS;La ( Rivière ) Mosson;Cours d'eau;848,345711;3215,062729
+840;270;0;BR;La Mosson ( RiviÃ¨re );Cours d'eau;949,515578;1798,225558
+841;270;0;BS;La ( RiviÃ¨re ) Mosson;Cours d'eau;848,345711;3215,062729

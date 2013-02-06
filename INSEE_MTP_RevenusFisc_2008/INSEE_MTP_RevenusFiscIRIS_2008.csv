@@ -1,11 +1,11 @@
 "Revenus fiscaux (2008)",,,,,,,,,,,,,,,,,,,,,,,
-"Données par IRIS",,,,,,,,,,,,,,,,,,,,,,,
-"Champ : IRIS de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,
-,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,
-"Source : Direction Générale des Impots, traitement Insee",,,,,,,,,,,,,,,,,,,,,,,
+"DonnÃ©es par IRIS",,,,,,,,,,,,,,,,,,,,,,,
+"Champ : IRIS de l'agglomÃ©ration 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomÃ©ration fait partie de la rÃ©gion : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,
+"Source : Direction GÃ©nÃ©rale des Impots, traitement Insee",,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,
 "REG","uu","dc","nomc","iris","nom","note","NbMen","NbPers","NbUC","RFMQ1","RFMQ2","RFMQ3","RFMD1","RFMD9","RFMMO","RFUCQ1","RFUCQ2","RFUCQ3","RFUCD1","RFUCD9","RFUCMO","PtSa","NbMenNI"
-"Code région","Code unité urbaine (agglomération)","Code département / commune","Nom de la commune","Code IRIS","Nom de la zone","Disponibilité (voir documentation)","Ménages fiscaux ","Personnes dans les  ménages fiscaux ","Unités de consommation","revenu par ménage: premier quartile","revenu par ménage: médiane ","revenu par ménage: dernier quartile","revenu par ménage: premier décile","revenu par ménage: dernier décile","revenu par ménage: moyenne ","revenu par UC: premier quartile","revenu par UC: médiane ","revenu par UC: dernier quartile","revenu par UC: premier décile","revenu par UC: dernier décile","revenu par UC: moyenne ","part traitements et salaires ","Ménages non imposables"
+"Code rÃ©gion","Code unitÃ© urbaine (agglomÃ©ration)","Code dÃ©partement / commune","Nom de la commune","Code IRIS","Nom de la zone","DisponibilitÃ© (voir documentation)","MÃ©nages fiscaux ","Personnes dans les  mÃ©nages fiscaux ","UnitÃ©s de consommation","revenu par mÃ©nage: premier quartile","revenu par mÃ©nage: mÃ©diane ","revenu par mÃ©nage: dernier quartile","revenu par mÃ©nage: premier dÃ©cile","revenu par mÃ©nage: dernier dÃ©cile","revenu par mÃ©nage: moyenne ","revenu par UC: premier quartile","revenu par UC: mÃ©diane ","revenu par UC: dernier quartile","revenu par UC: premier dÃ©cile","revenu par UC: dernier dÃ©cile","revenu par UC: moyenne ","part traitements et salaires ","MÃ©nages non imposables"
 "91","34701","34057","Castelnau-le-Lez","0101","QUARTIER SUD",2,443,1003,"701,7",17401,33596,56395,,,,15386,23121,34052,,,,"56,75",
 "91","34701","34057","Castelnau-le-Lez","0102","GALINE-STADE JEAN FOURNIER-OUEST",0,1277,2792,"1930,7",15160,23602,35002,8044,47342,"27239,74",10011,15500,22641,5702,30552,"17493,18","67,62",644
 "91","34701","34057","Castelnau-le-Lez","0103","CASTELNAU-CENTRE VILLE",0,1107,"2534,5","1760,8",20762,38028,62800,12802,94798,"51971,97",17012,25398,37571,11181,54917,"32864,9","45,81",375
@@ -18,7 +18,7 @@
 "91","34701","34172","Montpellier","0103","SAINT-ELOI",0,846,1582,"1165,8",9890,"18757,5",32000,3556,48326,"24416,15",8517,"14784,5",23332,3506,33623,"17759,19","69,58",435
 "91","34701","34172","Montpellier","0105","LAPEYRONIE",0,935,1700,1278,13215,24522,40874,5370,63248,"30949,43",11423,20551,29336,4641,"41163,5","22896,94","66,38",377
 "91","34701","34172","Montpellier","0106","OCCITANIE",0,1316,1996,"1612,2","8622,5",16588,25753,3187,40682,"20831,2","8622,5",15279,"22158,5",3896,30022,"17402,61","77,77",670
-"91","34701","34172","Montpellier","0108","EUROMÉDECINE",4,1381,"2930,5","2029,1",16578,27414,42741,,,,12745,19662,27677,,,,"83,94",
+"91","34701","34172","Montpellier","0108","EUROMÃ‰DECINE",4,1381,"2930,5","2029,1",16578,27414,42741,,,,12745,19662,27677,,,,"83,94",
 "91","34701","34172","Montpellier","0109","MALBOSC",4,1510,"2989,5","2144,5",12040,"20231,5",31997,5670,"50872,5","26508,84",8641,14994,22216,4069,34680,"18300,88","75,1",703
 "91","34701","34172","Montpellier","0201","LUNARET",2,,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","0202","AIGUELONGUE",0,835,"1840,5",1294,18007,40471,75615,9388,125272,"61418,6",19003,30704,47757,10916,74477,"40960,09","51,02",250
@@ -70,7 +70,7 @@
 "91","34701","34172","Montpellier","1803","LA LIRONDE",4,1451,2501,1913,11710,20286,32458,5495,52659,"26818,41",9590,17095,25474,4935,37104,"20489,24","71,69",629
 "91","34701","34172","Montpellier","1804","RIVE DU LEZ",4,1364,2670,"1936,6","17123,5","26731,5",42126,,,,12569,20220,28933,,,,"72,06",
 "91","34701","34172","Montpellier","1901","EUREKA",4,,,,,,,,,,,,,,,,,
-"91","34701","34172","Montpellier","1903","MILLÉNAIRE",4,927,"1782,5","1302,7",17137,26744,41878,9871,57572,"32387,77",14296,19744,28999,8272,37609,"22854,12","71,28",293
+"91","34701","34172","Montpellier","1903","MILLÃ‰NAIRE",4,927,"1782,5","1302,7",17137,26744,41878,9871,57572,"32387,77",14296,19744,28999,8272,37609,"22854,12","71,28",293
 "91","34701","34172","Montpellier","1904","GRAMMONT",4,1036,"2411,5","1617,2",13137,"23578,5","38504,5",2432,53835,"29719,57",6641,15807,24169,0,33826,"18379,37","79,86",439
 "91","34701","34172","Montpellier","2001","PONT DE SETE",0,1202,"2056,5","1579,6",9670,18722,34817,2919,60356,"27652,14",8410,16325,28120,2678,41451,"21342,37","59,12",608
 "91","34701","34172","Montpellier","2002","MEDITERRANNEE",0,1431,"2328,5","1828,8",10321,18751,33078,3756,51345,"25563,48",9383,16897,25756,3327,36531,"20161,73","63,1",709
@@ -94,7 +94,7 @@
 "91","34701","34172","Montpellier","2601","GAMBETTA",0,2027,"3807,5","2803,5",8421,16793,30006,1379,50337,"23171,39",5388,13383,23225,1036,34546,"16470,74","66,71",1146
 "91","34701","34172","Montpellier","2602","SAINT-DENIS",0,2046,"3720,5",2787,10253,"20843,5",38994,3303,64792,"30225,05",8561,17586,30307,2694,44606,"22537,23","56,58",988
 "91","34701","34172","Montpellier","2701","NOMBRE D'OR",0,1460,2518,"1942,3","14975,5",25492,41605,"7636,5",66586,"32220,22",12752,"20564,5",31230,5960,45344,"23935,92","46,71",574
-"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÊQUE",4,1326,"2301,5","1761,3",15699,24921,38696,7581,57850,"29606,53",12820,19452,29296,6247,39505,"22013,27","61,41",488
+"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÃŠQUE",4,1326,"2301,5","1761,3",15699,24921,38696,7581,57850,"29606,53",12820,19452,29296,6247,39505,"22013,27","61,41",488
 "91","34701","34172","Montpellier","2704","PLACE DE L'EUROPE",4,1094,"1768,5","1389,8",12002,21725,34263,4489,51148,"26747,75",10198,17865,26031,4086,36558,"20984,27","62,81",479
 "91","34701","34172","Montpellier","2801","LA GUIRLANDE",0,1493,2978,"2137,5",8379,19101,30715,1,48347,"22724,17",4409,12527,21629,0,32247,"15112,01","56,17",818
 "91","34701","34172","Montpellier","2802","CHAPTAL",0,1644,3232,"2346,2","10294,5",19785,33702,3360,50294,"24994,14","6575,5",15049,"23470,5",2143,32785,"17134,18","62,14",865

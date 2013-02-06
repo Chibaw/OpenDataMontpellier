@@ -1,11 +1,11 @@
-"Données localisées sur l'emploi au lieu de travail (2008)",,,,,,,,
-"Données par IRIS",,,,,,,,
-"Champ : IRIS de l'agglomération 34701-Montpellier",,,,,,,,
-,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,
+"DonnÃ©es localisÃ©es sur l'emploi au lieu de travail (2008)",,,,,,,,
+"DonnÃ©es par IRIS",,,,,,,,
+"Champ : IRIS de l'agglomÃ©ration 34701-Montpellier",,,,,,,,
+,"(Cette agglomÃ©ration fait partie de la rÃ©gion : 91-Languedoc-Roussillon)",,,,,,,
 "Source : Insee-CLAP",,,,,,,,
 ,,,,,,,,
 "REG","uu","dc","nomc","iris","nom","note","STCLAPI","SMCLAPI"
-"Code région","Code unité urbaine (agglomération)","Code département / commune","Nom de la commune","Code IRIS","Nom de la zone","Disponibilité (voir documentation)","Nombre total de postes salariés (à l'IRIS)","Nombre total de postes salariés du secteur marchand (à l'IRIS)"
+"Code rÃ©gion","Code unitÃ© urbaine (agglomÃ©ration)","Code dÃ©partement / commune","Nom de la commune","Code IRIS","Nom de la zone","DisponibilitÃ© (voir documentation)","Nombre total de postes salariÃ©s (Ã  l'IRIS)","Nombre total de postes salariÃ©s du secteur marchand (Ã  l'IRIS)"
 "91","34701","34057","Castelnau-le-Lez","0101","QUARTIER SUD",0,2893,2154
 "91","34701","34057","Castelnau-le-Lez","0102","GALINE-STADE JEAN FOURNIER-OUEST",0,540,189
 "91","34701","34057","Castelnau-le-Lez","0103","CASTELNAU-CENTRE VILLE",0,1234,820
@@ -18,7 +18,7 @@
 "91","34701","34172","Montpellier","0103","SAINT-ELOI",0,2583,137
 "91","34701","34172","Montpellier","0105","LAPEYRONIE",0,9787,58
 "91","34701","34172","Montpellier","0106","OCCITANIE",0,611,91
-"91","34701","34172","Montpellier","0108","EUROMÉDECINE",1,,
+"91","34701","34172","Montpellier","0108","EUROMÃ‰DECINE",1,,
 "91","34701","34172","Montpellier","0109","MALBOSC",1,,
 "91","34701","34172","Montpellier","0201","LUNARET",0,1209,46
 "91","34701","34172","Montpellier","0202","AIGUELONGUE",0,96,48
@@ -70,7 +70,7 @@
 "91","34701","34172","Montpellier","1803","LA LIRONDE",1,,
 "91","34701","34172","Montpellier","1804","RIVE DU LEZ",1,,
 "91","34701","34172","Montpellier","1901","EUREKA",0,2927,2926
-"91","34701","34172","Montpellier","1903","MILLÉNAIRE",1,,
+"91","34701","34172","Montpellier","1903","MILLÃ‰NAIRE",1,,
 "91","34701","34172","Montpellier","1904","GRAMMONT",1,,
 "91","34701","34172","Montpellier","2001","PONT DE SETE",0,1716,1225
 "91","34701","34172","Montpellier","2002","MEDITERRANNEE",0,798,607
@@ -94,7 +94,7 @@
 "91","34701","34172","Montpellier","2601","GAMBETTA",0,2443,768
 "91","34701","34172","Montpellier","2602","SAINT-DENIS",0,2907,1997
 "91","34701","34172","Montpellier","2701","NOMBRE D'OR",0,9664,2578
-"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÊQUE",1,,
+"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÃŠQUE",1,,
 "91","34701","34172","Montpellier","2704","PLACE DE L'EUROPE",1,,
 "91","34701","34172","Montpellier","2801","LA GUIRLANDE",0,229,46
 "91","34701","34172","Montpellier","2802","CHAPTAL",0,3912,806

@@ -1,11 +1,11 @@
-"Population par âge (1999)",,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Données par IRIS",,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Champ : IRIS de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,,,,,
+"Population par Ã¢ge (1999)",,,,,,,,,,,,,,,,,,,,,,,,,,,
+"DonnÃ©es par IRIS",,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : IRIS de l'agglomÃ©ration 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomÃ©ration fait partie de la rÃ©gion : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,,,,,
 "Source : Recensement de la population de 1999",,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "REG","uu","dc","nomc","iris","nom","note","XNBLOG","XRP","XRPPER","XNBOCC","XNBRSC","XNBVAC","xpoptot","xpoph","xpopf","xp0019h","xp0019f","xp2024h","xp2024f","xp2539h","xp2539f","xp4059h","xp4059f","xp6074h","xp6074f","xp75ph","xp75pf"
-"Code région","Code unité urbaine (agglomération)","Code département / commune","Nom de la commune","Code IRIS","Nom de la zone","Disponibilité (voir documentation)","Nombre total de logements","Nbre de résidences principales","Nbre de personnes dans les résidences principales","Nombre de logements occasionnels","Nombre de résidences secondaires","Nombre total de logements vacants","Population totale","Population totale, hommes","Population totale, femmes","Population de 0 a 19 ans, hommes","Population de 0 a 19 ans, femmes","Population de 20 à 24 ans, hommes","Population de 20 à 24 ans, femmes","Population de 25 à 39 ans, hommes","Population de 25 à 39 ans, femmes","Population de 40 à 59 ans, hommes","Population de 40 à 59 ans, femmes","Population de 60 à 74 ans, hommes","Population de 60 à 74 ans, femmes","Population de 75 ans et plus, hommes","Population de 75 ans et plus, femmes"
+"Code rÃ©gion","Code unitÃ© urbaine (agglomÃ©ration)","Code dÃ©partement / commune","Nom de la commune","Code IRIS","Nom de la zone","DisponibilitÃ© (voir documentation)","Nombre total de logements","Nbre de rÃ©sidences principales","Nbre de personnes dans les rÃ©sidences principales","Nombre de logements occasionnels","Nombre de rÃ©sidences secondaires","Nombre total de logements vacants","Population totale","Population totale, hommes","Population totale, femmes","Population de 0 a 19 ans, hommes","Population de 0 a 19 ans, femmes","Population de 20 Ã  24 ans, hommes","Population de 20 Ã  24 ans, femmes","Population de 25 Ã  39 ans, hommes","Population de 25 Ã  39 ans, femmes","Population de 40 Ã  59 ans, hommes","Population de 40 Ã  59 ans, femmes","Population de 60 Ã  74 ans, hommes","Population de 60 Ã  74 ans, femmes","Population de 75 ans et plus, hommes","Population de 75 ans et plus, femmes"
 "91","34701","34057","Castelnau-le-Lez","0101","QUARTIER SUD",0,364,333,882,2,8,21,982,468,514,106,120,27,30,83,75,150,141,64,75,38,73
 "91","34701","34057","Castelnau-le-Lez","0102","GALINE-STADE JEAN FOURNIER-OUEST",0,1217,1096,2403,8,17,96,2410,1058,1352,275,289,67,95,268,308,240,294,130,188,78,178
 "91","34701","34057","Castelnau-le-Lez","0103","CASTELNAU-CENTRE VILLE",0,1162,1056,2490,3,32,71,2490,1178,1312,260,239,58,55,185,203,308,339,247,283,120,193
@@ -18,7 +18,7 @@
 "91","34701","34172","Montpellier","0103","SAINT-ELOI",0,1456,1280,2140,26,19,131,2105,946,1159,185,185,281,406,244,266,141,163,59,75,36,64
 "91","34701","34172","Montpellier","0105","LAPEYRONIE",0,1309,1130,1862,25,9,145,2862,1257,1605,185,213,430,624,345,309,166,239,88,97,43,123
 "91","34701","34172","Montpellier","0106","OCCITANIE",0,2023,1812,2270,11,8,192,2369,1257,1112,128,124,545,529,431,319,103,95,36,33,14,12
-"91","34701","34172","Montpellier","0108","EUROMÉDECINE",1,,,,,,,,,,,,,,,,,,,,,
+"91","34701","34172","Montpellier","0108","EUROMÃ‰DECINE",1,,,,,,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","0109","MALBOSC",1,,,,,,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","0201","LUNARET",0,211,190,231,2,1,18,231,124,107,15,14,54,46,43,41,12,5,0,1,0,0
 "91","34701","34172","Montpellier","0202","AIGUELONGUE",0,1116,1037,2219,11,20,48,2218,1057,1161,268,217,166,242,178,173,299,360,109,120,37,49
@@ -70,7 +70,7 @@
 "91","34701","34172","Montpellier","1803","LA LIRONDE",1,,,,,,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","1804","RIVE DU LEZ",1,,,,,,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","1901","EUREKA",0,0,0,0,0,0,0,,,,,,,,,,,,,,,
-"91","34701","34172","Montpellier","1903","MILLÉNAIRE",1,,,,,,,,,,,,,,,,,,,,,
+"91","34701","34172","Montpellier","1903","MILLÃ‰NAIRE",1,,,,,,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","1904","GRAMMONT",1,,,,,,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","2001","PONT DE SETE",0,1908,1490,2407,53,51,314,2431,1031,1400,168,219,166,310,339,318,194,237,106,155,58,161
 "91","34701","34172","Montpellier","2002","MEDITERRANNEE",0,1814,1492,2514,33,42,247,2520,1124,1396,160,201,183,220,346,347,214,264,134,178,87,186
@@ -94,7 +94,7 @@
 "91","34701","34172","Montpellier","2601","GAMBETTA",0,2875,2387,3913,33,64,391,3914,1833,2081,311,328,251,339,614,543,383,398,171,239,103,234
 "91","34701","34172","Montpellier","2602","SAINT-DENIS",0,2790,2159,3700,84,79,468,3700,1664,2036,295,292,212,262,493,501,363,460,190,270,111,251
 "91","34701","34172","Montpellier","2701","NOMBRE D'OR",0,1906,1726,3039,21,48,111,3050,1367,1683,242,246,185,243,334,334,279,366,206,290,121,204
-"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÊQUE",1,,,,,,,,,,,,,,,,,,,,,
+"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÃŠQUE",1,,,,,,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","2704","PLACE DE L'EUROPE",1,,,,,,,,,,,,,,,,,,,,,
 "91","34701","34172","Montpellier","2801","LA GUIRLANDE",0,1701,1502,3042,9,48,142,3103,1413,1690,390,353,126,147,368,405,290,373,165,246,74,166
 "91","34701","34172","Montpellier","2802","CHAPTAL",0,2015,1711,3062,26,29,249,3081,1364,1717,277,271,78,155,417,410,336,367,145,268,111,246
