@@ -1,11 +1,11 @@
-"Créations d'activités économiques (2009)",,,,,,,,,,,,,,,,,,,,,,,,,,
-"Données par IRIS",,,,,,,,,,,,,,,,,,,,,,,,,,
-"Champ : IRIS de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,,,,
-,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,,,,
-"Source : Répertoire des entreprises et établissements (SIRENE)",,,,,,,,,,,,,,,,,,,,,,,,,,
+"CrÃ©ations d'activitÃ©s Ã©conomiques (2009)",,,,,,,,,,,,,,,,,,,,,,,,,,
+"DonnÃ©es par IRIS",,,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : IRIS de l'agglomÃ©ration 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomÃ©ration fait partie de la rÃ©gion : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,,,,
+"Source : RÃ©pertoire des entreprises et Ã©tablissements (SIRENE)",,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 "REG","uu","dc","nomc","iris","nom","note","n","CJPP","CJPM","trans","A17DE","A17C1","A17C2","A17C3","A17C4","A17C5","A17FZ","A17GZ","A17HZ","A17IZ","A17JZ","A17KZ","A17LZ","A17MN","A17OQ","A17RU"
-"Code région","Code unité urbaine (agglomération)","Code département / commune","Nom de la commune","Code IRIS","Nom de la zone","Disponibilité (voir documentation)","Nombre d'établissements","Dépendant de personnes physiques","Dépendant de personnes morales","Etablissements provenant d’un transfert","Industries extractives,  énergie, eau, gestion des déchets et dépollution","Fabrication de denrées alimentaires, de boissons et  de produits à base de tabac","Cokéfaction et raffinage","Fabrication d'équipements électriques, électroniques, informatiques ; fabrication de machines","Fabrication de matériels de transport","Fabrication d'autres produits industriels","Construction","Commerce ; réparation d'automobiles et de motocycles","Transports et entreposage","Hébergement et restauration","Information et communication","Activités financières et d'assurance","Activités immobilières","Activités scientifiques et techniques ; services administratifs et de soutien","Administration publique, enseignement, santé humaine et action sociale","Autres activités de services"
+"Code rÃ©gion","Code unitÃ© urbaine (agglomÃ©ration)","Code dÃ©partement / commune","Nom de la commune","Code IRIS","Nom de la zone","DisponibilitÃ© (voir documentation)","Nombre d'Ã©tablissements","DÃ©pendant de personnes physiques","DÃ©pendant de personnes morales","Etablissements provenant dÂ’un transfert","Industries extractives,  Ã©nergie, eau, gestion des dÃ©chets et dÃ©pollution","Fabrication de denrÃ©es alimentaires, de boissons et  de produits Ã  base de tabac","CokÃ©faction et raffinage","Fabrication d'Ã©quipements Ã©lectriques, Ã©lectroniques, informatiques ; fabrication de machines","Fabrication de matÃ©riels de transport","Fabrication d'autres produits industriels","Construction","Commerce ; rÃ©paration d'automobiles et de motocycles","Transports et entreposage","HÃ©bergement et restauration","Information et communication","ActivitÃ©s financiÃ¨res et d'assurance","ActivitÃ©s immobiliÃ¨res","ActivitÃ©s scientifiques et techniques ; services administratifs et de soutien","Administration publique, enseignement, santÃ© humaine et action sociale","Autres activitÃ©s de services"
 "91","34701","34057","Castelnau-le-Lez","0101","QUARTIER SUD",0,92,29,63,26,1,0,0,0,0,1,12,19,0,9,9,0,4,29,4,4
 "91","34701","34057","Castelnau-le-Lez","0102","GALINE-STADE JEAN FOURNIER-OUEST",0,51,39,12,10,1,1,0,0,0,0,7,9,1,2,4,0,2,8,9,7
 "91","34701","34057","Castelnau-le-Lez","0103","CASTELNAU-CENTRE VILLE",0,43,27,16,7,1,0,0,0,0,0,7,7,0,0,5,0,2,9,9,3
@@ -18,7 +18,7 @@
 "91","34701","34172","Montpellier","0103","SAINT-ELOI",0,23,20,3,2,0,0,0,0,0,2,2,1,0,0,4,1,0,7,2,4
 "91","34701","34172","Montpellier","0105","LAPEYRONIE",0,35,32,3,5,0,0,0,0,0,0,5,3,1,2,3,1,0,9,7,4
 "91","34701","34172","Montpellier","0106","OCCITANIE",0,48,39,9,4,0,0,0,0,0,1,9,7,1,1,7,1,0,6,9,6
-"91","34701","34172","Montpellier","0108","EUROMÉDECINE",0,59,48,11,11,0,0,0,0,0,0,5,15,0,0,2,3,0,18,10,6
+"91","34701","34172","Montpellier","0108","EUROMÃ‰DECINE",0,59,48,11,11,0,0,0,0,0,0,5,15,0,0,2,3,0,18,10,6
 "91","34701","34172","Montpellier","0109","MALBOSC",0,52,38,14,5,0,0,0,0,0,3,3,6,1,0,7,3,1,12,9,7
 "91","34701","34172","Montpellier","0201","LUNARET",0,4,3,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0
 "91","34701","34172","Montpellier","0202","AIGUELONGUE",0,31,25,6,4,0,0,0,0,0,0,3,5,0,0,1,0,2,15,3,2
@@ -70,7 +70,7 @@
 "91","34701","34172","Montpellier","1803","LA LIRONDE",0,67,33,34,10,0,1,0,0,0,1,10,9,0,4,4,1,6,18,7,6
 "91","34701","34172","Montpellier","1804","RIVE DU LEZ",0,175,75,100,25,6,1,0,0,0,0,5,49,1,18,4,4,5,43,22,17
 "91","34701","34172","Montpellier","1901","EUREKA",0,11,0,11,3,0,0,0,0,0,0,0,0,0,1,6,0,0,4,0,0
-"91","34701","34172","Montpellier","1903","MILLÉNAIRE",0,32,30,2,3,0,0,0,0,0,0,2,3,0,0,7,2,3,5,7,3
+"91","34701","34172","Montpellier","1903","MILLÃ‰NAIRE",0,32,30,2,3,0,0,0,0,0,0,2,3,0,0,7,2,3,5,7,3
 "91","34701","34172","Montpellier","1904","GRAMMONT",0,193,46,147,47,9,1,0,0,0,4,32,34,1,5,20,8,8,57,5,9
 "91","34701","34172","Montpellier","2001","PONT DE SETE",0,114,71,43,20,4,0,0,0,0,5,4,26,0,10,7,3,1,31,13,10
 "91","34701","34172","Montpellier","2002","MEDITERRANNEE",0,71,46,25,7,0,1,0,0,0,2,10,13,2,1,6,1,1,15,10,9
@@ -94,7 +94,7 @@
 "91","34701","34172","Montpellier","2601","GAMBETTA",0,96,72,24,15,0,1,0,0,0,1,11,24,0,5,7,1,1,22,12,11
 "91","34701","34172","Montpellier","2602","SAINT-DENIS",0,132,94,38,17,2,1,0,0,0,0,12,28,1,2,11,4,6,38,15,12
 "91","34701","34172","Montpellier","2701","NOMBRE D'OR",0,101,53,48,20,2,0,0,0,0,0,10,25,2,5,9,4,11,22,6,5
-"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÊQUE",0,34,24,10,3,1,0,0,0,0,2,3,8,4,1,2,1,0,6,4,2
+"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÃŠQUE",0,34,24,10,3,1,0,0,0,0,2,3,8,4,1,2,1,0,6,4,2
 "91","34701","34172","Montpellier","2704","PLACE DE L'EUROPE",0,57,41,16,9,0,0,0,0,0,0,3,10,0,4,7,1,4,12,12,4
 "91","34701","34172","Montpellier","2801","LA GUIRLANDE",0,30,25,5,4,1,0,0,0,0,2,5,6,0,1,4,0,0,5,4,2
 "91","34701","34172","Montpellier","2802","CHAPTAL",0,54,48,6,6,0,0,0,0,0,1,7,11,0,1,1,0,1,18,10,4
